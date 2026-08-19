@@ -1,24 +1,9 @@
 {
-  "items": [
-    {
-      "description": "",
-      "items": [],
-      "title": "How to install/uninstall QuickLook plugins"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Plugins"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Packages"
-    }
-  ],
+  "items": [],
   "metadata": {
-    "last_updated": "2026-08-19T03:09:03.423Z",
+    "last_updated": "2026-08-19T12:14:46.079Z",
     "original_repository": "haokaiyang/Mac-QuickLook",
+    "original_repository_id": 123937079,
     "original_repository_sha": "20d7c17d02c9894a61e4f5972cdf381049184977",
     "enhanced_repository": "enhansome/enhansome-Mac-QuickLook",
     "enhanced_repository_description": null,
