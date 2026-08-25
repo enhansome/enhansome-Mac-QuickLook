@@ -270,7 +270,7 @@
             "last_commit": "2026-08-19T13:24:38Z",
             "owner": "Marginal",
             "repo": "QuickLookVideo",
-            "stars": 3542
+            "stars": 3543
           }
         },
         {
@@ -1266,7 +1266,7 @@
             "last_commit": "2026-07-31T10:55:31Z",
             "owner": "sbarex",
             "repo": "QLMarkdown",
-            "stars": 3432
+            "stars": 3433
           }
         },
         {
@@ -1356,7 +1356,7 @@
             "last_commit": "2026-04-27T12:33:25Z",
             "owner": "insidegui",
             "repo": "AssetCatalogTinkerer",
-            "stars": 2873
+            "stars": 2874
           }
         },
         {
@@ -1439,7 +1439,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:12:39.744Z",
+    "last_updated": "2026-08-25T03:10:55.932Z",
     "original_repository": "haokaiyang/Mac-QuickLook",
     "original_repository_id": 123937079,
     "original_repository_sha": "20d7c17d02c9894a61e4f5972cdf381049184977",
