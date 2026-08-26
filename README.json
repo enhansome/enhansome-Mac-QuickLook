@@ -150,7 +150,7 @@
             "last_commit": "2023-12-06T17:49:41Z",
             "owner": "toland",
             "repo": "qlmarkdown",
-            "stars": 3334
+            "stars": 3333
           }
         },
         {
@@ -267,7 +267,7 @@
             "archived": false,
             "id": 21910366,
             "language": "Swift",
-            "last_commit": "2026-08-19T13:24:38Z",
+            "last_commit": "2026-08-25T17:26:45Z",
             "owner": "Marginal",
             "repo": "QuickLookVideo",
             "stars": 3543
@@ -1251,7 +1251,7 @@
             "last_commit": "2026-04-14T18:34:22Z",
             "owner": "sbarex",
             "repo": "SourceCodeSyntaxHighlight",
-            "stars": 4219
+            "stars": 4221
           }
         },
         {
@@ -1266,7 +1266,7 @@
             "last_commit": "2026-07-31T10:55:31Z",
             "owner": "sbarex",
             "repo": "QLMarkdown",
-            "stars": 3435
+            "stars": 3437
           }
         },
         {
@@ -1439,7 +1439,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:03:33.497Z",
+    "last_updated": "2026-08-26T03:16:15.213Z",
     "original_repository": "haokaiyang/Mac-QuickLook",
     "original_repository_id": 123937079,
     "original_repository_sha": "20d7c17d02c9894a61e4f5972cdf381049184977",
