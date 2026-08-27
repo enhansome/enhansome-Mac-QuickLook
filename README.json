@@ -150,7 +150,7 @@
             "last_commit": "2023-12-06T17:49:41Z",
             "owner": "toland",
             "repo": "qlmarkdown",
-            "stars": 3333
+            "stars": 3335
           }
         },
         {
@@ -162,7 +162,7 @@
             "archived": false,
             "id": 1195212292,
             "language": "Shell",
-            "last_commit": "2026-08-24T06:33:02Z",
+            "last_commit": "2026-08-26T22:33:00Z",
             "owner": "ruspg",
             "repo": "markdown-quicklook",
             "stars": 9
@@ -210,7 +210,7 @@
             "last_commit": "2024-10-29T20:24:16Z",
             "owner": "bfabiszewski",
             "repo": "QLMobi",
-            "stars": 137
+            "stars": 138
           }
         },
         {
@@ -270,7 +270,7 @@
             "last_commit": "2026-08-25T17:26:45Z",
             "owner": "Marginal",
             "repo": "QuickLookVideo",
-            "stars": 3543
+            "stars": 3546
           }
         },
         {
@@ -375,7 +375,7 @@
             "last_commit": "2024-10-15T02:14:36Z",
             "owner": "onekiloparsec",
             "repo": "QLFits",
-            "stars": 61
+            "stars": 62
           }
         },
         {
@@ -495,7 +495,7 @@
             "last_commit": "2017-06-18T20:53:24Z",
             "owner": "vibrog",
             "repo": "quicklook-gpx",
-            "stars": 27
+            "stars": 28
           }
         },
         {
@@ -615,7 +615,7 @@
             "last_commit": "2021-11-18T16:19:48Z",
             "owner": "p2",
             "repo": "quicklook-csv",
-            "stars": 311
+            "stars": 312
           }
         },
         {
@@ -1251,7 +1251,7 @@
             "last_commit": "2026-04-14T18:34:22Z",
             "owner": "sbarex",
             "repo": "SourceCodeSyntaxHighlight",
-            "stars": 4221
+            "stars": 4224
           }
         },
         {
@@ -1266,7 +1266,7 @@
             "last_commit": "2026-07-31T10:55:31Z",
             "owner": "sbarex",
             "repo": "QLMarkdown",
-            "stars": 3437
+            "stars": 3442
           }
         },
         {
@@ -1356,7 +1356,7 @@
             "last_commit": "2026-04-27T12:33:25Z",
             "owner": "insidegui",
             "repo": "AssetCatalogTinkerer",
-            "stars": 2874
+            "stars": 2875
           }
         },
         {
@@ -1439,9 +1439,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T03:16:15.213Z",
-    "original_repository": "haokaiyang/Mac-QuickLook",
-    "original_repository_id": 123937079,
+    "last_updated": "2026-08-27T11:53:30.526Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 123937079,
+      "language": "CSS",
+      "last_commit": "2026-04-01T16:37:03Z",
+      "owner": "haokaiyang",
+      "repo": "Mac-QuickLook",
+      "stars": 1444
+    },
     "original_repository_sha": "20d7c17d02c9894a61e4f5972cdf381049184977",
     "enhanced_repository": "enhansome/enhansome-Mac-QuickLook",
     "enhanced_repository_description": null,
