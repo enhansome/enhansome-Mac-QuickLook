@@ -10,12 +10,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A QuickLook plugin to preview AsciiDoc files.",
+            "homepage": null,
             "id": 106309566,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2026-02-15T13:18:51Z",
+            "open_issues": 1,
             "owner": "clydeclements",
             "repo": "AsciiDocQuickLook",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "asciidoc",
+              "asciidoctor",
+              "macos",
+              "quicklook",
+              "quicklook-plugin"
+            ]
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -26,12 +37,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "overhaul for betterzip's quicklook plugin",
+            "homepage": null,
             "id": 2072634,
             "language": "C",
+            "license": null,
             "last_commit": "2011-11-24T01:10:08Z",
+            "open_issues": 1,
             "owner": "farfanoide",
             "repo": "BetterZ-QuickLook-plugin-theme-for-Lion",
-            "stars": 48
+            "stars": 48,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -42,12 +58,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A macOS QuickLook plugin to generate previews for Adobe After Effects animations exported as JSON with Bodymovin",
+            "homepage": null,
             "id": 83505747,
             "language": "Objective-C",
+            "license": "Apache-2.0",
             "last_commit": "2018-12-03T10:37:14Z",
+            "open_issues": 1,
             "owner": "fabionuno",
             "repo": "BodymovinQL",
-            "stars": 33
+            "stars": 33,
+            "topics": [
+              "bodymovin",
+              "macos",
+              "quicklook"
+            ]
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -58,12 +83,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A quick look plugin for macOS finder for HDF5 files.",
+            "homepage": null,
             "id": 981114752,
             "language": "Swift",
+            "license": "GPL-3.0",
             "last_commit": "2026-04-08T12:40:40Z",
+            "open_issues": 0,
             "owner": "hacknus",
             "repo": "HDF5QL",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -74,12 +104,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a simple Quicklook plugin for macOS Finder to preview the structure of dotTHz files, for imaging scans it also provides a simple render/preview. ",
+            "homepage": null,
             "id": 982428941,
             "language": "Swift",
+            "license": "GPL-3.0",
             "last_commit": "2026-04-08T13:00:29Z",
+            "open_issues": 0,
             "owner": "hacknus",
             "repo": "DotTHzQL",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -90,12 +125,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Quick Look plugin for mobile apps and provisioning profiles",
+            "homepage": null,
             "id": 15744932,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-08-16T17:05:53Z",
+            "open_issues": 3,
             "owner": "ealeksandrov",
             "repo": "ProvisionQL",
-            "stars": 2455
+            "stars": 2455,
+            "topics": [
+              "ios",
+              "ios-dev",
+              "ipa",
+              "macos",
+              "objective-c",
+              "provision",
+              "quicklook",
+              "xcarchive"
+            ]
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -106,12 +155,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "QuickLook plugin for source code with syntax highlighting.",
+            "homepage": null,
             "id": 4893501,
             "language": "Objective-C",
+            "license": "GPL-3.0",
             "last_commit": "2024-12-07T22:29:07Z",
+            "open_issues": 22,
             "owner": "anthonygelibert",
             "repo": "QLColorCode",
-            "stars": 712
+            "stars": 712,
+            "topics": [
+              "code-source",
+              "highlight",
+              "macos",
+              "quicklook-plugin"
+            ]
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -122,12 +181,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Quicklook Syntax highlighting with support for Drupal filetypes and more (module, profile, theme, install, inc)",
+            "homepage": null,
             "id": 5011257,
             "language": "PHP",
+            "license": "GPL-2.0",
             "last_commit": "2020-12-11T06:35:04Z",
+            "open_issues": 3,
             "owner": "BrianGilbert",
             "repo": "QLColorCode-extra",
-            "stars": 94
+            "stars": 94,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -138,12 +202,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "QuickLook and Spotlight plugins to display the dimensions, size and DPI of an image in the title bar instead of the filename. Also preview some unsupported formats like WebP & bpg.",
+            "homepage": null,
             "id": 3323812,
             "language": "Objective-C",
+            "license": "MIT",
             "last_commit": "2026-05-04T06:59:12Z",
+            "open_issues": 1,
             "owner": "Nyx0uf",
             "repo": "qlImageSize",
-            "stars": 1200
+            "stars": 1200,
+            "topics": [
+              "bpg",
+              "images",
+              "objective-c",
+              "quicklook",
+              "quicklook-plugin",
+              "webp"
+            ]
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -154,12 +230,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "QuickLook generator for Markdown files.",
+            "homepage": null,
             "id": 32054,
             "language": "CSS",
+            "license": null,
             "last_commit": "2023-12-06T17:49:41Z",
+            "open_issues": 52,
             "owner": "toland",
             "repo": "qlmarkdown",
-            "stars": 3335
+            "stars": 3335,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -170,12 +251,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Quick Look preview for Markdown files on macOS + menu bar toggle",
+            "homepage": null,
             "id": 1195212292,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-08-26T22:33:00Z",
+            "open_issues": 0,
             "owner": "ruspg",
             "repo": "markdown-quicklook",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "finder",
+              "macos",
+              "markdown",
+              "obsidian",
+              "quick-look-plugin",
+              "quicklook",
+              "quicklook-plugin",
+              "swift"
+            ]
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -186,12 +281,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Improved QuickLook generator for MultiMarkdown files (FYI, the closed-source version from http://multimarkdown.com/ is better and also free.)",
+            "homepage": null,
             "id": 2559530,
             "language": "C",
+            "license": null,
             "last_commit": "2015-12-01T19:50:12Z",
+            "open_issues": 1,
             "owner": "fletcher",
             "repo": "MMD-QuickLook",
-            "stars": 103
+            "stars": 103,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -202,12 +302,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Update November 3rd 2025: free macOS plugin to play mkv movies in Quick Look Preview.",
+            "homepage": null,
             "id": 940677300,
             "language": "C",
+            "license": null,
             "last_commit": "2025-11-13T10:39:50Z",
+            "open_issues": 9,
             "owner": "Oil3",
             "repo": "Mkv-Quicklook",
-            "stars": 112
+            "stars": 112,
+            "topics": [
+              "appex",
+              "bigsur",
+              "macos",
+              "matroska",
+              "mkv",
+              "monterey",
+              "qlvideo",
+              "quicklook",
+              "quicklook-extension",
+              "quicklook-plugin",
+              "swift",
+              "video"
+            ]
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -218,12 +336,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Quick Look plugin for Kindle ebook formats",
+            "homepage": null,
             "id": 45451661,
             "language": "Objective-C",
+            "license": null,
             "last_commit": "2024-10-29T20:24:16Z",
+            "open_issues": 1,
             "owner": "bfabiszewski",
             "repo": "QLMobi",
-            "stars": 138
+            "stars": 138,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -234,12 +357,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A QuickLook plugin that lets you view plain text files without a file extension",
+            "homepage": "https://github.com/whomwah/qlstephen",
             "id": 107223,
             "language": "Objective-C",
+            "license": "MIT",
             "last_commit": "2023-05-20T02:35:08Z",
+            "open_issues": 40,
             "owner": "whomwah",
             "repo": "qlstephen",
-            "stars": 2833
+            "stars": 2833,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -250,12 +378,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mac quicklook for ASE files (Adobe Swatch Exchange)",
+            "homepage": null,
             "id": 60972125,
             "language": "Objective-C",
+            "license": null,
             "last_commit": "2017-02-23T19:01:04Z",
+            "open_issues": 0,
             "owner": "rsodre",
             "repo": "QuickLookASE",
-            "stars": 46
+            "stars": 46,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -266,12 +399,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A QuickLook plugin for OS X for JSON files. ",
+            "homepage": null,
             "id": 15318398,
             "language": "Objective-C",
+            "license": null,
             "last_commit": "2014-01-06T16:08:32Z",
+            "open_issues": 1,
             "owner": "tomnewton",
             "repo": "QuickLookPrettyJSON",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -282,12 +420,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Finder Thumbnails, Quick Look previews, Get Info metadata and previews for most types of audio and video files.",
+            "homepage": null,
             "id": 21910366,
             "language": "Swift",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-25T17:26:45Z",
+            "open_issues": 6,
             "owner": "Marginal",
             "repo": "QuickLookVideo",
-            "stars": 3549
+            "stars": 3549,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -298,12 +441,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A QuickLook plugin that lets you view subtitles .srt files like Addic7ed.com on mac",
+            "homepage": null,
             "id": 86635541,
             "language": "Objective-C",
+            "license": "GPL-3.0",
             "last_commit": "2023-03-17T05:04:47Z",
+            "open_issues": 8,
             "owner": "tattali",
             "repo": "QLAddict",
-            "stars": 162
+            "stars": 162,
+            "topics": [
+              "macos",
+              "quicklook",
+              "quicklook-plugin",
+              "subtitles"
+            ]
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -314,12 +467,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "QuickLook generator for beautifully rendering CommonMark documents on macOS",
+            "homepage": null,
             "id": 88056654,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2017-07-25T07:20:20Z",
+            "open_issues": 0,
             "owner": "digitalmoksha",
             "repo": "QLCommonMark",
-            "stars": 50
+            "stars": 50,
+            "topics": [
+              "bootstrap",
+              "commonmark",
+              "macos",
+              "markdown",
+              "quicklook"
+            ]
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -330,12 +494,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "QuickLook generator for the Xcode Playgrounds",
+            "homepage": null,
             "id": 43876343,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2016-09-27T09:33:33Z",
+            "open_issues": 0,
             "owner": "inloop",
             "repo": "qlplayground",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -346,12 +515,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "`qlplayground` is a QuickLook plugin for Swift files.",
+            "homepage": null,
             "id": 42797490,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2015-09-21T14:27:38Z",
+            "open_issues": 1,
             "owner": "norio-nomura",
             "repo": "qlplayground",
-            "stars": 35
+            "stars": 35,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -362,12 +536,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "QuickLook Plugin (.qlgenerator) for 3D model mesh files (.mesh, .obj, .off, .ply, .stl, .wrl)",
+            "homepage": null,
             "id": 42960539,
             "language": "C++",
+            "license": "MPL-2.0",
             "last_commit": "2020-08-15T22:09:53Z",
+            "open_issues": 5,
             "owner": "alecjacobson",
             "repo": "MeshQuickLookPlugin",
-            "stars": 57
+            "stars": 57,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -378,12 +557,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "QuickLook generator for patch files",
+            "homepage": null,
             "id": 14760455,
             "language": "C",
+            "license": "BSD-2-Clause",
             "last_commit": "2016-03-18T10:30:05Z",
+            "open_issues": 1,
             "owner": "atnan",
             "repo": "QLPrettyPatch",
-            "stars": 93
+            "stars": 93,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -394,12 +578,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The macOS quicklook plugin for FITS files.",
+            "homepage": "http://onekiloparsec.dev/",
             "id": 2332748,
             "language": "Objective-C",
+            "license": "MIT",
             "last_commit": "2024-10-15T02:14:36Z",
+            "open_issues": 2,
             "owner": "onekiloparsec",
             "repo": "QLFits",
-            "stars": 62
+            "stars": 62,
+            "topics": [
+              "astronomy",
+              "macos-quicklook-plugin",
+              "quicklook"
+            ]
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -410,12 +603,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Quicklook plugin for .FIT files from Garmin devices and such",
+            "homepage": null,
             "id": 4981826,
             "language": "C++",
+            "license": null,
             "last_commit": "2013-07-28T10:50:31Z",
+            "open_issues": 0,
             "owner": "dbr",
             "repo": "QLfit",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -426,12 +624,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "macOS QuickLook plugin for quick views of ANSi, ASCii, and other text mode art.",
+            "homepage": "https://www.ansilove.org",
             "id": 109312633,
             "language": "Objective-C",
+            "license": "NOASSERTION",
             "last_commit": "2023-02-24T02:38:11Z",
+            "open_issues": 5,
             "owner": "ansilove",
             "repo": "QLAnsilove",
-            "stars": 59
+            "stars": 59,
+            "topics": [
+              "ansi",
+              "ansiart",
+              "macos",
+              "quicklook",
+              "quicklook-plugin"
+            ]
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -442,12 +651,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "QuickLook Plugin for Vega and Vega-Lite",
+            "homepage": null,
             "id": 121908148,
             "language": "C",
+            "license": null,
             "last_commit": "2018-02-19T16:10:58Z",
+            "open_issues": 0,
             "owner": "invokesus",
             "repo": "qlvega",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "objective-c",
+              "quicklook",
+              "quicklook-plugin",
+              "vega",
+              "vega-lite"
+            ]
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -458,12 +678,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "QuickLook plugin for PUD files",
+            "homepage": null,
             "id": 71878858,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2016-10-29T15:13:40Z",
+            "open_issues": 0,
             "owner": "war2",
             "repo": "pud-quicklook",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "warcraft2"
+            ]
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -474,12 +701,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Apple QuickLook Plugin for PPM, PGM, PFM and PBM files",
+            "homepage": null,
             "id": 3140471,
             "language": "Objective-C",
+            "license": null,
             "last_commit": "2017-03-28T16:36:30Z",
+            "open_issues": 0,
             "owner": "lnxbil",
             "repo": "quicklook-pfm",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -490,12 +722,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A QuickLook plugin to inspect App Store receipts.",
+            "homepage": null,
             "id": 15010356,
             "language": "Objective-C",
+            "license": null,
             "last_commit": "2020-07-20T14:09:09Z",
+            "open_issues": 1,
             "owner": "letiemble",
             "repo": "ReceiptQuickLook",
-            "stars": 43
+            "stars": 43,
+            "topics": [
+              "objective-c",
+              "quicklook-bundle",
+              "quicklook-plugin",
+              "receipt"
+            ]
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -506,12 +748,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "macOS QuickLook plugin for R save(), saveRDS() & feather files",
+            "homepage": null,
             "id": 65056540,
             "language": "C",
+            "license": null,
             "last_commit": "2021-01-12T21:31:15Z",
+            "open_issues": 6,
             "owner": "hrbrmstr",
             "repo": "QuickLookR",
-            "stars": 46
+            "stars": 46,
+            "topics": [
+              "macos",
+              "macos-quicklook-plugin",
+              "quicklook-plugin",
+              "r",
+              "rdata",
+              "rmarkdown",
+              "rstats"
+            ]
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -522,12 +777,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "QuickLook plugin for GPX files",
+            "homepage": null,
             "id": 74745797,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2017-06-18T20:53:24Z",
+            "open_issues": 4,
             "owner": "vibrog",
             "repo": "quicklook-gpx",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -538,12 +798,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mac OS X QuickLook plugin for WebP image files",
+            "homepage": null,
             "id": 11686037,
             "language": "C",
+            "license": null,
             "last_commit": "2021-05-19T06:18:36Z",
+            "open_issues": 14,
             "owner": "emin",
             "repo": "WebPQuickLook",
-            "stars": 795
+            "stars": 795,
+            "topics": [
+              "quicklook",
+              "quicklook-plugin",
+              "webp"
+            ]
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -554,12 +823,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Updated November 12th - The original free MacOS plugin to play .webm movies in Quick Look Preview. ",
+            "homepage": null,
             "id": 740710255,
             "language": "Swift",
+            "license": "NOASSERTION",
             "last_commit": "2025-11-13T23:00:45Z",
+            "open_issues": 4,
             "owner": "Oil3",
             "repo": "Webm-QuickLook-Plug-In",
-            "stars": 152
+            "stars": 152,
+            "topics": [
+              "macos",
+              "notarized",
+              "quicklook",
+              "quicklook-extension",
+              "quicklook-plugin",
+              "sandboxed",
+              "webm"
+            ]
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -570,12 +852,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NOTE: Not working in Mojave and later! ePub quicklook and spotlight plugins for Mac OS X.",
+            "homepage": null,
             "id": 1836511,
             "language": "C",
+            "license": "BSD-3-Clause",
             "last_commit": "2017-08-26T13:55:18Z",
+            "open_issues": 10,
             "owner": "jaketmp",
             "repo": "ePub-quicklook",
-            "stars": 572
+            "stars": 572,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -586,12 +873,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A QuickLook generator for ePub cover pages",
+            "homepage": null,
             "id": 10081766,
             "language": "Objective-C",
+            "license": "GPL-3.0",
             "last_commit": "2013-12-22T11:24:39Z",
+            "open_issues": 0,
             "owner": "Crazor",
             "repo": "QuickPub",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -602,12 +894,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A quicklook plugin for Japanese text file(e.g. Shift JIS, EUC-JP, or UTF-8)",
+            "homepage": null,
             "id": 58265999,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2016-05-07T23:54:53Z",
+            "open_issues": 0,
             "owner": "mzp",
             "repo": "qltext-jp",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -618,12 +915,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Quicklook Plugin for NFO files",
+            "homepage": null,
             "id": 822032,
             "language": "C",
+            "license": null,
             "last_commit": "2019-01-18T08:57:41Z",
+            "open_issues": 6,
             "owner": "planbnet",
             "repo": "QuickNFO",
-            "stars": 300
+            "stars": 300,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -634,12 +936,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A QuickLook plugin to pretty-print (node.js style) JSON. Click to fold/unfold sub-trees!",
+            "homepage": null,
             "id": 1495860,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-04-12T18:17:33Z",
+            "open_issues": 2,
             "owner": "johan",
             "repo": "QuickJSON",
-            "stars": 90
+            "stars": 90,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -650,12 +957,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A QuickLook plugin for CSV files",
+            "homepage": null,
             "id": 7981096,
             "language": "Objective-C",
+            "license": "NOASSERTION",
             "last_commit": "2021-11-18T16:19:48Z",
+            "open_issues": 10,
             "owner": "p2",
             "repo": "quicklook-csv",
-            "stars": 312
+            "stars": 312,
+            "topics": [
+              "csv-files",
+              "quicklook-plugin"
+            ]
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -666,12 +981,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "QuickLook generator for FictionBook (fb2) e-book file format",
+            "homepage": "http://www.bluezbox.com/fb2ql.html",
             "id": 291305,
             "language": "Objective-C",
+            "license": null,
             "last_commit": "2009-08-28T21:53:18Z",
+            "open_issues": 0,
             "owner": "gonzoua",
             "repo": "FictionBook2QL",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -682,12 +1002,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Quick Look generator for Jupyter/IPython notebooks without further dependencies",
+            "homepage": null,
             "id": 80257419,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2023-12-15T23:11:47Z",
+            "open_issues": 5,
             "owner": "tuxu",
             "repo": "ipynb-quicklook",
-            "stars": 200
+            "stars": 200,
+            "topics": [
+              "jupyter",
+              "jupyter-notebook",
+              "macos",
+              "nbviewer"
+            ]
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -698,12 +1028,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Preview jupyter notebooks in quick look.",
+            "homepage": null,
             "id": 43633258,
             "language": "C",
+            "license": "Unlicense",
             "last_commit": "2020-10-31T20:45:56Z",
+            "open_issues": 2,
             "owner": "jendas1",
             "repo": "jupyter-notebook-quick-look",
-            "stars": 34
+            "stars": 34,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -714,12 +1049,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A QuickLook plugin that lets you view waveforms of audio files",
+            "homepage": null,
             "id": 95271256,
             "language": "C",
+            "license": "Apache-2.0",
             "last_commit": "2020-08-02T12:56:43Z",
+            "open_issues": 5,
             "owner": "seagirl",
             "repo": "QLWaveForm",
-            "stars": 27
+            "stars": 27,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -730,12 +1070,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A Quick Look plugin for Android packages",
+            "homepage": null,
             "id": 16099658,
             "language": "Objective-C",
+            "license": null,
             "last_commit": "2020-05-28T08:09:52Z",
+            "open_issues": 4,
             "owner": "hezi",
             "repo": "QuickLookAPK",
-            "stars": 153
+            "stars": 153,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -746,12 +1091,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "macOS QuickLook plugin for glTF files",
+            "homepage": null,
             "id": 111159292,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2022-11-27T13:26:25Z",
+            "open_issues": 19,
             "owner": "magicien",
             "repo": "GLTFQuickLook",
-            "stars": 273
+            "stars": 273,
+            "topics": [
+              "gltf",
+              "macos-quicklook-plugin",
+              "quicklook-plugin"
+            ]
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -762,12 +1116,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MacOSX QuickLook Generator for zip, jar, tar, tar.gz (.tgz), tar.bz2 (.tbz2/.tbz), tar.Z, xar (.xar, .pkg), debian (.deb), RedHat Package Manager (.rpm), 7zip (.7z), xz, Microsoft cabinet (.cab), gzip (.gz), lha, BinHex 4.0 (.hqx), ePub (.epub), and Stuffit (.sit) archives, and ISO9660 images",
+            "homepage": null,
             "id": 41140597,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2024-11-28T06:02:06Z",
+            "open_issues": 2,
             "owner": "srirangav",
             "repo": "qlZipInfo",
-            "stars": 175
+            "stars": 175,
+            "topics": [
+              "compression",
+              "macos",
+              "quicklook",
+              "quicklook-bundle",
+              "quicklook-extension",
+              "quicklook-plugin",
+              "zip"
+            ]
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -778,12 +1145,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Quicklook preview for zip files",
+            "homepage": null,
             "id": 21836384,
             "language": "C",
+            "license": null,
             "last_commit": "2019-05-02T14:30:11Z",
+            "open_issues": 2,
             "owner": "richie5um",
             "repo": "QLZip",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -794,12 +1166,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A QuickLook Plugin for previewing NetCDF files.",
+            "homepage": null,
             "id": 12017575,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2020-11-04T22:45:33Z",
+            "open_issues": 2,
             "owner": "tobeycarman",
             "repo": "QLNetcdf",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -810,12 +1187,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NOTE - Not working in Mojave and later versions! A Mac OS X quicklook generator for MATLAB .mat workspace files.",
+            "homepage": null,
             "id": 1971495,
             "language": "C",
+            "license": "BSD-3-Clause",
             "last_commit": "2017-08-26T14:03:56Z",
+            "open_issues": 3,
             "owner": "jaketmp",
             "repo": "matlab-quicklook",
-            "stars": 48
+            "stars": 48,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -826,12 +1208,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "macOS QuickLook plugin for MikuMikuDance files",
+            "homepage": null,
             "id": 112117402,
             "language": "Objective-C",
+            "license": null,
             "last_commit": "2019-10-29T03:17:06Z",
+            "open_issues": 0,
             "owner": "magicien",
             "repo": "MikuMikuDanceQuickLook",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "mikumikudance",
+              "quicklook-plugin"
+            ]
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -842,12 +1232,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "QuickLook plugin for images that includes the image's size in the title bar",
+            "homepage": null,
             "id": 110740423,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2021-07-21T18:25:42Z",
+            "open_issues": 0,
             "owner": "srirangav",
             "repo": "qlImagePreviewWithSize",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -858,12 +1253,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "QuickLook plugin to display movie thumbnail and video informations. Also create nice Finder icons from the thumbnail.",
+            "homepage": null,
             "id": 18878611,
             "language": "Objective-C",
+            "license": "BSD-3-Clause",
             "last_commit": "2018-12-07T08:47:37Z",
+            "open_issues": 0,
             "owner": "Nyx0uf",
             "repo": "qlMoviePreview",
-            "stars": 186
+            "stars": 186,
+            "topics": [
+              "cocoa",
+              "objective-c",
+              "quicklook",
+              "video",
+              "video-information"
+            ]
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -874,12 +1280,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "QuickLook plugin to preview Web Open Font Format files (woff)",
+            "homepage": null,
             "id": 23581780,
             "language": "Objective-C++",
+            "license": "NOASSERTION",
             "last_commit": "2018-12-06T18:48:18Z",
+            "open_issues": 0,
             "owner": "Nyx0uf",
             "repo": "qlwoff",
-            "stars": 69
+            "stars": 69,
+            "topics": [
+              "cocoa",
+              "freetype",
+              "macos",
+              "quicklook",
+              "woff"
+            ]
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -890,12 +1307,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Quicklook plugin for .bbc4 media archives",
+            "homepage": null,
             "id": 89607039,
             "language": "C",
+            "license": null,
             "last_commit": "2017-04-27T14:37:06Z",
+            "open_issues": 0,
             "owner": "simongregory",
             "repo": "ql-bbc4",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "bbc",
+              "media",
+              "media-archive",
+              "osx",
+              "quicklook",
+              "quicklook-plugin"
+            ]
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -906,12 +1335,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "QuickLook previews generator plugin for .boxnote files.",
+            "homepage": null,
             "id": 101321899,
             "language": "C",
+            "license": null,
             "last_commit": "2019-02-28T09:53:35Z",
+            "open_issues": 0,
             "owner": "louije",
             "repo": "qlboxnote",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "box",
+              "quicklook",
+              "quicklook-plugin"
+            ]
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -922,12 +1360,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Quick Look generator for Nintendo DS ROM images",
+            "homepage": null,
             "id": 921356,
             "language": "C",
+            "license": null,
             "last_commit": "2010-09-18T23:37:05Z",
+            "open_issues": 1,
             "owner": "gonzoua",
             "repo": "NDSQuickLook",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -938,12 +1381,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "QuickLook for GeoJSON",
+            "homepage": null,
             "id": 20581269,
             "language": "C",
+            "license": null,
             "last_commit": "2022-09-21T07:26:36Z",
+            "open_issues": 5,
             "owner": "irees",
             "repo": "quickgeojson",
-            "stars": 37
+            "stars": 37,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -954,12 +1402,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "First QuickLook plugin for BPG image",
+            "homepage": null,
             "id": 28114782,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2015-05-30T02:55:39Z",
+            "open_issues": 0,
             "owner": "dethi",
             "repo": "QuickLookBPG",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -970,12 +1423,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Quick Look plug-in for .mobileprovision files",
+            "homepage": null,
             "id": 13963501,
             "language": "Objective-C",
+            "license": null,
             "last_commit": "2017-12-21T00:05:02Z",
+            "open_issues": 12,
             "owner": "chockenberry",
             "repo": "Provisioning",
-            "stars": 1540
+            "stars": 1540,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -986,12 +1444,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Quick Look plugin for viewing iff pictures",
+            "homepage": null,
             "id": 8761647,
             "language": "C",
+            "license": null,
             "last_commit": "2014-12-30T11:59:10Z",
+            "open_issues": 1,
             "owner": "dalton-tulou",
             "repo": "ql-iff",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -1002,12 +1465,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An OS X QuickLook plugin to display the bit rate (in kbps) of an MP3 file in the title bar of the QuickLook window.",
+            "homepage": null,
             "id": 15131660,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2015-06-14T23:31:20Z",
+            "open_issues": 1,
             "owner": "jordansaints",
             "repo": "qlBitRate",
-            "stars": 56
+            "stars": 56,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -1018,12 +1486,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mac quicklook plugin to view crossword puzzle files (puz).",
+            "homepage": null,
             "id": 78683628,
             "language": "Objective-C",
+            "license": null,
             "last_commit": "2017-12-23T18:50:04Z",
+            "open_issues": 0,
             "owner": "DianeWass",
             "repo": "QuickLookPUZ",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -1034,12 +1507,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 17028532,
             "language": "XSLT",
+            "license": null,
             "last_commit": "2014-02-20T17:15:33Z",
+            "open_issues": 1,
             "owner": "fabiolecca",
             "repo": "colorxml-quicklook",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -1050,12 +1528,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A D64/D71/D81 DiskImage QuickLook Plugin for Mac OS X [updated for 64-bit]",
+            "homepage": null,
             "id": 57175274,
             "language": "C",
+            "license": null,
             "last_commit": "2016-04-27T02:09:29Z",
+            "open_issues": 0,
             "owner": "arcanelab",
             "repo": "D64QLPlugin",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -1066,12 +1549,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OSX QuickLook Plugin for Graphviz dot files",
+            "homepage": null,
             "id": 1463706,
             "language": "C",
+            "license": null,
             "last_commit": "2016-03-23T05:55:12Z",
+            "open_issues": 2,
             "owner": "besi",
             "repo": "quicklook-dot",
-            "stars": 41
+            "stars": 41,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -1082,12 +1570,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Quicklook plugin for generating thumbnails via Quicktime",
+            "homepage": null,
             "id": 29860589,
             "language": "C",
+            "license": null,
             "last_commit": "2016-04-28T19:51:58Z",
+            "open_issues": 0,
             "owner": "lov",
             "repo": "QLVJ",
-            "stars": 39
+            "stars": 39,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -1098,12 +1591,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 45258277,
             "language": "Objective-C",
+            "license": null,
             "last_commit": "2015-11-12T22:23:20Z",
+            "open_issues": 0,
             "owner": "subangstrom",
             "repo": "FEI-SER-Quicklook",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -1114,12 +1612,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "QuickLook Generator for MagicaVoxel files",
+            "homepage": null,
             "id": 45793944,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2015-11-10T01:23:45Z",
+            "open_issues": 1,
             "owner": "heptal",
             "repo": "VoxQL",
-            "stars": 39
+            "stars": 39,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -1130,12 +1633,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A QuickLook generator for Xcode’s .codesnippet plist files — currently broken",
+            "homepage": null,
             "id": 15902430,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2015-04-28T18:59:35Z",
+            "open_issues": 0,
             "owner": "douglashill",
             "repo": "QuickLookCodeSnippet",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -1146,12 +1654,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "QuickLook plugin for Rust language. (C)",
+            "homepage": null,
             "id": 31642903,
             "language": "HTML",
+            "license": null,
             "last_commit": "2015-03-04T07:27:37Z",
+            "open_issues": 0,
             "owner": "yingDev",
             "repo": "rust-quicklook",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -1162,12 +1675,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Quicklook plugin for .gradle files",
+            "homepage": null,
             "id": 30613683,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2015-02-14T13:13:12Z",
+            "open_issues": 1,
             "owner": "Urucas",
             "repo": "QLGradle",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -1178,12 +1696,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "QuickLook plugin for Xournal documents.",
+            "homepage": null,
             "id": 28523754,
             "language": "C",
+            "license": null,
             "last_commit": "2014-12-27T01:57:43Z",
+            "open_issues": 1,
             "owner": "catch22",
             "repo": "XournalQL",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -1194,12 +1717,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A QuickLook plugin for Microsoft Outlook for Mac 2011 contacts. ",
+            "homepage": null,
             "id": 26962283,
             "language": "Objective-C",
+            "license": "MIT",
             "last_commit": "2014-11-25T04:55:02Z",
+            "open_issues": 3,
             "owner": "craibuc",
             "repo": "OutlookContactQL",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -1210,12 +1738,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A QuickLook plugin for Mac OS X that provides a thumbnail and Quicklook of a video directly in the Finder.",
+            "homepage": null,
             "id": 22609072,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2014-08-04T15:43:34Z",
+            "open_issues": 0,
             "owner": "BestPig",
             "repo": "QuicklookVideo",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -1226,12 +1759,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A QuickLook plugin for ogg vorbis files.",
+            "homepage": null,
             "id": 14093777,
             "language": "Objective-C",
+            "license": null,
             "last_commit": "2013-11-18T01:47:13Z",
+            "open_issues": 4,
             "owner": "clemmece",
             "repo": "qlvorbis",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -1242,12 +1780,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "bmpQuicklook is a QuickLook plugin for Max OSX to show Windows BMP files.",
+            "homepage": null,
             "id": 11723568,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2013-07-29T04:48:08Z",
+            "open_issues": 0,
             "owner": "hirobe",
             "repo": "bmpQuickLook",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -1258,12 +1801,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "QuickLook Plugin for sublime-snippet and tmSnippet.",
+            "homepage": null,
             "id": 8452698,
             "language": "C",
+            "license": null,
             "last_commit": "2013-02-27T09:26:41Z",
+            "open_issues": 0,
             "owner": "hetima",
             "repo": "SublimeSnippetQL",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -1274,12 +1822,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MacOS QuickLook plugin to decompile Java Class files ",
+            "homepage": "https://jhartman.pl/2018/06/06/macos-qucklook-plugin-for-java-class/",
             "id": 136330188,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2018-06-06T13:42:29Z",
+            "open_issues": 0,
             "owner": "jaroslawhartman",
             "repo": "Java-Class-QuickLook",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -1290,12 +1843,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Quicklook plugin for Github Flavored Markdown",
+            "homepage": null,
             "id": 128623605,
             "language": "C",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-09-18T00:45:49Z",
+            "open_issues": 0,
             "owner": "Watson1978",
             "repo": "QLMarkdownGFM",
-            "stars": 58
+            "stars": 58,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -1306,12 +1864,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Quicklook plugin for .opml files. E.g., RSS reader outline files.",
+            "homepage": null,
             "id": 199466320,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2023-06-17T15:07:37Z",
+            "open_issues": 0,
             "owner": "relikd",
             "repo": "QLOPML",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "macos",
+              "opml",
+              "quicklook",
+              "quicklook-plugin",
+              "rss"
+            ]
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         }
@@ -1328,12 +1897,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Quick Look extension for highlight source code files on macOS 10.15 and later.",
+            "homepage": "https://sbarex.github.io/SourceCodeSyntaxHighlight/",
             "id": 216405620,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2026-04-14T18:34:22Z",
+            "open_issues": 83,
             "owner": "sbarex",
             "repo": "SourceCodeSyntaxHighlight",
-            "stars": 4226
+            "stars": 4226,
+            "topics": [
+              "quicklook-extension",
+              "quicklook-plugin"
+            ]
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -1344,12 +1921,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "macOS Quick Look extension for Markdown files.",
+            "homepage": null,
             "id": 324601436,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-31T10:55:31Z",
+            "open_issues": 36,
             "owner": "sbarex",
             "repo": "QLMarkdown",
-            "stars": 3467
+            "stars": 3475,
+            "topics": [
+              "markdown-viewer",
+              "quicklook-extension",
+              "quicklook-plugin"
+            ]
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -1360,12 +1946,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A simple Markdown preview App for OS X with QuickLook support",
+            "homepage": "http://qvacua.com",
             "id": 9429511,
             "language": "Objective-C",
+            "license": "GPL-3.0",
             "last_commit": "2013-06-23T12:21:44Z",
+            "open_issues": 0,
             "owner": "qvacua",
             "repo": "lookdown",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -1376,12 +1967,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This package allows OSX Finder to display thumbnails and QuickLook previews for X-Plane 3D Object files.",
+            "homepage": null,
             "id": 56177628,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2018-10-02T16:59:04Z",
+            "open_issues": 3,
             "owner": "Marginal",
             "repo": "QLXPlaneObj",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -1392,12 +1988,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This package allows OSX Finder to display thumbnails, QuickLook previews and metadata for \"DirectDraw Surface\" (DDS) texture files.",
+            "homepage": null,
             "id": 8000429,
             "language": "Objective-C",
+            "license": "GPL-2.0",
             "last_commit": "2018-03-31T19:05:19Z",
+            "open_issues": 0,
             "owner": "Marginal",
             "repo": "QLdds",
-            "stars": 96
+            "stars": 96,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -1408,12 +2009,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "QuickLook & Spotlight plugins for Windows DLLs and EXEs",
+            "homepage": null,
             "id": 33455630,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2022-11-19T20:15:03Z",
+            "open_issues": 2,
             "owner": "shysaur",
             "repo": "QLWindowsApps",
-            "stars": 55
+            "stars": 56,
+            "topics": [
+              "macos",
+              "quicklook",
+              "quicklook-plugin",
+              "spotlight",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -1424,12 +2036,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Quicklook plugin to view Adobe Photoshop pattern files in Apple's Finder application.",
+            "homepage": "https://medium.com/pixelrowdies-adventures/viewing-photoshop-pattern-files-in-finder-using-quicklook-1bf81cdeb872",
             "id": 59295571,
             "language": null,
+            "license": null,
             "last_commit": "2017-01-11T16:54:45Z",
+            "open_issues": 2,
             "owner": "pixelrowdies",
             "repo": "quicklook-pat",
-            "stars": 34
+            "stars": 34,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -1440,12 +2057,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An app that lets you open .car files and browse/extract their images.",
+            "homepage": null,
             "id": 17406078,
             "language": "Swift",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-04-27T12:33:25Z",
+            "open_issues": 13,
             "owner": "insidegui",
             "repo": "AssetCatalogTinkerer",
-            "stars": 2875
+            "stars": 2875,
+            "topics": [
+              "asset-catalog",
+              "developer-tools",
+              "ios",
+              "macos",
+              "objective-c",
+              "quicklook",
+              "quicklook-plugin",
+              "swift"
+            ]
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -1456,12 +2087,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FLIF image viewer and QuickLook plugin for macOS",
+            "homepage": "https://sveinbjorn.org/phew",
             "id": 88158689,
             "language": "Objective-C",
+            "license": "NOASSERTION",
             "last_commit": "2018-05-15T14:34:59Z",
+            "open_issues": 0,
             "owner": "sveinbjornt",
             "repo": "Phew",
-            "stars": 87
+            "stars": 87,
+            "topics": [
+              "cocoapods",
+              "flif",
+              "flif-format",
+              "flif-images",
+              "image-compression",
+              "image-viewer",
+              "lossless-images",
+              "macos",
+              "osx",
+              "quicklook",
+              "quicklook-plugin"
+            ]
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -1472,12 +2120,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "QuickLook plugin for mac that allows you to see full previews of .procreate files in Finder.",
+            "homepage": "jaromvogel.com/ProcreateViewer",
             "id": 81223831,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-10-19T20:42:15Z",
+            "open_issues": 0,
             "owner": "jaromvogel",
             "repo": "ProcreateViewer",
-            "stars": 72
+            "stars": 72,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -1488,12 +2141,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "QuickLook plugin for app bundles. – .ipa, .tipa, .appex, .xcarchive, .apk, .apkm",
+            "homepage": null,
             "id": 1086584429,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-04-08T22:35:07Z",
+            "open_issues": 0,
             "owner": "relikd",
             "repo": "QLAppBundle",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "apk",
+              "appex",
+              "ipa",
+              "macos",
+              "quicklook",
+              "quicklook-plugin",
+              "tipa",
+              "xcarchive"
+            ]
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -1504,12 +2171,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "QuickLook extension for JSON files",
+            "homepage": null,
             "id": 1029136238,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-04-24T13:21:15Z",
+            "open_issues": 0,
             "owner": "relikd",
             "repo": "QLJSON",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "json",
+              "macos",
+              "quicklook",
+              "quicklook-plugin"
+            ]
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -1520,12 +2197,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "QuickLook plugin for Markdown files. –  .md, .markdown",
+            "homepage": null,
             "id": 1110031207,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-04-27T18:04:04Z",
+            "open_issues": 0,
             "owner": "relikd",
             "repo": "QLMarkdown",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "markdown",
+              "md",
+              "quicklook",
+              "quicklook-plugin"
+            ]
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         }
@@ -1534,15 +2221,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T14:18:29.869Z",
+    "last_updated": "2026-08-29T04:30:09.692Z",
     "original_repository_info": {
       "archived": false,
+      "description": "QuickLook plugins and packages",
+      "homepage": null,
       "id": 123937079,
       "language": "CSS",
+      "license": "CC0-1.0",
       "last_commit": "2026-04-01T16:37:03Z",
+      "open_issues": 4,
       "owner": "haokaiyang",
       "repo": "Mac-QuickLook",
-      "stars": 1444
+      "stars": 1445,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "macos",
+        "quicklook",
+        "quicklook-plugin"
+      ]
     },
     "original_repository_sha": "20d7c17d02c9894a61e4f5972cdf381049184977",
     "enhanced_repository": "enhansome/enhansome-Mac-QuickLook",
