@@ -311,7 +311,7 @@
             "open_issues": 9,
             "owner": "Oil3",
             "repo": "Mkv-Quicklook",
-            "stars": 112,
+            "stars": 113,
             "topics": [
               "appex",
               "bigsur",
@@ -426,10 +426,10 @@
             "language": "Swift",
             "license": "GPL-2.0",
             "last_commit": "2026-08-25T17:26:45Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "Marginal",
             "repo": "QuickLookVideo",
-            "stars": 3549,
+            "stars": 3550,
             "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
@@ -1432,7 +1432,7 @@
             "open_issues": 12,
             "owner": "chockenberry",
             "repo": "Provisioning",
-            "stars": 1540,
+            "stars": 1541,
             "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
@@ -1906,7 +1906,7 @@
             "open_issues": 83,
             "owner": "sbarex",
             "repo": "SourceCodeSyntaxHighlight",
-            "stars": 4226,
+            "stars": 4227,
             "topics": [
               "quicklook-extension",
               "quicklook-plugin"
@@ -1930,7 +1930,7 @@
             "open_issues": 36,
             "owner": "sbarex",
             "repo": "QLMarkdown",
-            "stars": 3477,
+            "stars": 3481,
             "topics": [
               "markdown-viewer",
               "quicklook-extension",
@@ -2221,7 +2221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T08:59:50.479Z",
+    "last_updated": "2026-08-30T08:16:16.097Z",
     "original_repository_info": {
       "archived": false,
       "description": "QuickLook plugins and packages",
