@@ -239,7 +239,7 @@
             "open_issues": 52,
             "owner": "toland",
             "repo": "qlmarkdown",
-            "stars": 3335,
+            "stars": 3336,
             "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
@@ -426,10 +426,10 @@
             "language": "Swift",
             "license": "GPL-2.0",
             "last_commit": "2026-08-25T17:26:45Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "Marginal",
             "repo": "QuickLookVideo",
-            "stars": 3550,
+            "stars": 3552,
             "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
@@ -1906,7 +1906,7 @@
             "open_issues": 83,
             "owner": "sbarex",
             "repo": "SourceCodeSyntaxHighlight",
-            "stars": 4227,
+            "stars": 4228,
             "topics": [
               "quicklook-extension",
               "quicklook-plugin"
@@ -2221,7 +2221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T08:16:16.097Z",
+    "last_updated": "2026-08-31T08:36:20.818Z",
     "original_repository_info": {
       "archived": false,
       "description": "QuickLook plugins and packages",
