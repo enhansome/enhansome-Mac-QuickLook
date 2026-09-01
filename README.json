@@ -429,7 +429,7 @@
             "open_issues": 8,
             "owner": "Marginal",
             "repo": "QuickLookVideo",
-            "stars": 3552,
+            "stars": 3554,
             "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
@@ -1906,7 +1906,7 @@
             "open_issues": 83,
             "owner": "sbarex",
             "repo": "SourceCodeSyntaxHighlight",
-            "stars": 4228,
+            "stars": 4227,
             "topics": [
               "quicklook-extension",
               "quicklook-plugin"
@@ -1930,7 +1930,7 @@
             "open_issues": 36,
             "owner": "sbarex",
             "repo": "QLMarkdown",
-            "stars": 3481,
+            "stars": 3485,
             "topics": [
               "markdown-viewer",
               "quicklook-extension",
@@ -2221,7 +2221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T08:36:20.818Z",
+    "last_updated": "2026-09-01T07:46:01.469Z",
     "original_repository_info": {
       "archived": false,
       "description": "QuickLook plugins and packages",
@@ -2233,7 +2233,7 @@
       "open_issues": 4,
       "owner": "haokaiyang",
       "repo": "Mac-QuickLook",
-      "stars": 1445,
+      "stars": 1446,
       "topics": [
         "awesome",
         "awesome-list",
