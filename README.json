@@ -239,7 +239,7 @@
             "open_issues": 52,
             "owner": "toland",
             "repo": "qlmarkdown",
-            "stars": 3337,
+            "stars": 3338,
             "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
@@ -260,7 +260,7 @@
             "open_issues": 0,
             "owner": "ruspg",
             "repo": "markdown-quicklook",
-            "stars": 9,
+            "stars": 10,
             "topics": [
               "finder",
               "macos",
@@ -311,7 +311,7 @@
             "open_issues": 9,
             "owner": "Oil3",
             "repo": "Mkv-Quicklook",
-            "stars": 114,
+            "stars": 115,
             "topics": [
               "appex",
               "bigsur",
@@ -366,7 +366,7 @@
             "open_issues": 40,
             "owner": "whomwah",
             "repo": "qlstephen",
-            "stars": 2834,
+            "stars": 2833,
             "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
@@ -429,7 +429,7 @@
             "open_issues": 8,
             "owner": "Marginal",
             "repo": "QuickLookVideo",
-            "stars": 3557,
+            "stars": 3560,
             "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
@@ -450,7 +450,7 @@
             "open_issues": 8,
             "owner": "tattali",
             "repo": "QLAddict",
-            "stars": 162,
+            "stars": 163,
             "topics": [
               "macos",
               "quicklook",
@@ -1906,7 +1906,7 @@
             "open_issues": 83,
             "owner": "sbarex",
             "repo": "SourceCodeSyntaxHighlight",
-            "stars": 4228,
+            "stars": 4229,
             "topics": [
               "quicklook-extension",
               "quicklook-plugin"
@@ -2066,7 +2066,7 @@
             "open_issues": 13,
             "owner": "insidegui",
             "repo": "AssetCatalogTinkerer",
-            "stars": 2878,
+            "stars": 2879,
             "topics": [
               "asset-catalog",
               "developer-tools",
@@ -2150,7 +2150,7 @@
             "open_issues": 0,
             "owner": "relikd",
             "repo": "QLAppBundle",
-            "stars": 13,
+            "stars": 15,
             "topics": [
               "apk",
               "appex",
@@ -2221,7 +2221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T06:54:34.220Z",
+    "last_updated": "2026-09-06T07:06:04.588Z",
     "original_repository_info": {
       "archived": false,
       "description": "QuickLook plugins and packages",
