@@ -164,7 +164,7 @@
             "open_issues": 22,
             "owner": "anthonygelibert",
             "repo": "QLColorCode",
-            "stars": 712,
+            "stars": 714,
             "topics": [
               "code-source",
               "highlight",
@@ -429,7 +429,7 @@
             "open_issues": 8,
             "owner": "Marginal",
             "repo": "QuickLookVideo",
-            "stars": 3560,
+            "stars": 3563,
             "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
@@ -1906,7 +1906,7 @@
             "open_issues": 83,
             "owner": "sbarex",
             "repo": "SourceCodeSyntaxHighlight",
-            "stars": 4230,
+            "stars": 4232,
             "topics": [
               "quicklook-extension",
               "quicklook-plugin"
@@ -1930,7 +1930,7 @@
             "open_issues": 37,
             "owner": "sbarex",
             "repo": "QLMarkdown",
-            "stars": 3507,
+            "stars": 3512,
             "topics": [
               "markdown-viewer",
               "quicklook-extension",
@@ -2221,7 +2221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T07:17:17.851Z",
+    "last_updated": "2026-09-08T07:12:49.528Z",
     "original_repository_info": {
       "archived": false,
       "description": "QuickLook plugins and packages",
