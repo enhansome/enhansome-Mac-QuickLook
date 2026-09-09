@@ -134,7 +134,7 @@
             "open_issues": 4,
             "owner": "ealeksandrov",
             "repo": "ProvisionQL",
-            "stars": 2457,
+            "stars": 2458,
             "topics": [
               "ios",
               "ios-dev",
@@ -164,7 +164,7 @@
             "open_issues": 22,
             "owner": "anthonygelibert",
             "repo": "QLColorCode",
-            "stars": 714,
+            "stars": 715,
             "topics": [
               "code-source",
               "highlight",
@@ -211,7 +211,7 @@
             "open_issues": 1,
             "owner": "Nyx0uf",
             "repo": "qlImageSize",
-            "stars": 1200,
+            "stars": 1199,
             "topics": [
               "bpg",
               "images",
@@ -311,7 +311,7 @@
             "open_issues": 9,
             "owner": "Oil3",
             "repo": "Mkv-Quicklook",
-            "stars": 115,
+            "stars": 116,
             "topics": [
               "appex",
               "bigsur",
@@ -366,7 +366,7 @@
             "open_issues": 40,
             "owner": "whomwah",
             "repo": "qlstephen",
-            "stars": 2833,
+            "stars": 2834,
             "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
@@ -425,11 +425,11 @@
             "id": 21910366,
             "language": "Swift",
             "license": "GPL-2.0",
-            "last_commit": "2026-08-25T17:26:45Z",
-            "open_issues": 8,
+            "last_commit": "2026-09-08T16:41:11Z",
+            "open_issues": 6,
             "owner": "Marginal",
             "repo": "QuickLookVideo",
-            "stars": 3563,
+            "stars": 3565,
             "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
@@ -450,7 +450,7 @@
             "open_issues": 8,
             "owner": "tattali",
             "repo": "QLAddict",
-            "stars": 163,
+            "stars": 164,
             "topics": [
               "macos",
               "quicklook",
@@ -832,7 +832,7 @@
             "open_issues": 4,
             "owner": "Oil3",
             "repo": "Webm-QuickLook-Plug-In",
-            "stars": 152,
+            "stars": 153,
             "topics": [
               "macos",
               "notarized",
@@ -924,7 +924,7 @@
             "open_issues": 6,
             "owner": "planbnet",
             "repo": "QuickNFO",
-            "stars": 301,
+            "stars": 302,
             "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
@@ -1011,7 +1011,7 @@
             "open_issues": 5,
             "owner": "tuxu",
             "repo": "ipynb-quicklook",
-            "stars": 200,
+            "stars": 201,
             "topics": [
               "jupyter",
               "jupyter-notebook",
@@ -1125,7 +1125,7 @@
             "open_issues": 2,
             "owner": "srirangav",
             "repo": "qlZipInfo",
-            "stars": 175,
+            "stars": 176,
             "topics": [
               "compression",
               "macos",
@@ -1906,7 +1906,7 @@
             "open_issues": 83,
             "owner": "sbarex",
             "repo": "SourceCodeSyntaxHighlight",
-            "stars": 4232,
+            "stars": 4233,
             "topics": [
               "quicklook-extension",
               "quicklook-plugin"
@@ -1930,7 +1930,7 @@
             "open_issues": 37,
             "owner": "sbarex",
             "repo": "QLMarkdown",
-            "stars": 3512,
+            "stars": 3518,
             "topics": [
               "markdown-viewer",
               "quicklook-extension",
@@ -2221,7 +2221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T07:12:49.528Z",
+    "last_updated": "2026-09-09T07:20:56.483Z",
     "original_repository_info": {
       "archived": false,
       "description": "QuickLook plugins and packages",
@@ -2233,7 +2233,7 @@
       "open_issues": 4,
       "owner": "haokaiyang",
       "repo": "Mac-QuickLook",
-      "stars": 1446,
+      "stars": 1449,
       "topics": [
         "awesome",
         "awesome-list",
