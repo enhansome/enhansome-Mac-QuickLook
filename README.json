@@ -311,7 +311,7 @@
             "open_issues": 9,
             "owner": "Oil3",
             "repo": "Mkv-Quicklook",
-            "stars": 116,
+            "stars": 117,
             "topics": [
               "appex",
               "bigsur",
@@ -366,7 +366,7 @@
             "open_issues": 40,
             "owner": "whomwah",
             "repo": "qlstephen",
-            "stars": 2834,
+            "stars": 2835,
             "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
@@ -429,7 +429,7 @@
             "open_issues": 6,
             "owner": "Marginal",
             "repo": "QuickLookVideo",
-            "stars": 3565,
+            "stars": 3566,
             "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
@@ -1906,7 +1906,7 @@
             "open_issues": 83,
             "owner": "sbarex",
             "repo": "SourceCodeSyntaxHighlight",
-            "stars": 4233,
+            "stars": 4234,
             "topics": [
               "quicklook-extension",
               "quicklook-plugin"
@@ -1926,11 +1926,11 @@
             "id": 324601436,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-07-31T10:55:31Z",
-            "open_issues": 37,
+            "last_commit": "2026-09-09T15:25:02Z",
+            "open_issues": 29,
             "owner": "sbarex",
             "repo": "QLMarkdown",
-            "stars": 3518,
+            "stars": 3520,
             "topics": [
               "markdown-viewer",
               "quicklook-extension",
@@ -2221,7 +2221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T07:20:56.483Z",
+    "last_updated": "2026-09-10T07:16:24.929Z",
     "original_repository_info": {
       "archived": false,
       "description": "QuickLook plugins and packages",
@@ -2233,7 +2233,7 @@
       "open_issues": 4,
       "owner": "haokaiyang",
       "repo": "Mac-QuickLook",
-      "stars": 1449,
+      "stars": 1450,
       "topics": [
         "awesome",
         "awesome-list",
