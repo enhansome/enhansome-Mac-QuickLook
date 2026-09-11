@@ -239,7 +239,7 @@
             "open_issues": 52,
             "owner": "toland",
             "repo": "qlmarkdown",
-            "stars": 3338,
+            "stars": 3337,
             "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
@@ -260,7 +260,7 @@
             "open_issues": 0,
             "owner": "ruspg",
             "repo": "markdown-quicklook",
-            "stars": 10,
+            "stars": 12,
             "topics": [
               "finder",
               "macos",
@@ -429,7 +429,7 @@
             "open_issues": 6,
             "owner": "Marginal",
             "repo": "QuickLookVideo",
-            "stars": 3566,
+            "stars": 3565,
             "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
@@ -1906,7 +1906,7 @@
             "open_issues": 83,
             "owner": "sbarex",
             "repo": "SourceCodeSyntaxHighlight",
-            "stars": 4234,
+            "stars": 4235,
             "topics": [
               "quicklook-extension",
               "quicklook-plugin"
@@ -1930,7 +1930,7 @@
             "open_issues": 29,
             "owner": "sbarex",
             "repo": "QLMarkdown",
-            "stars": 3520,
+            "stars": 3524,
             "topics": [
               "markdown-viewer",
               "quicklook-extension",
@@ -2066,7 +2066,7 @@
             "open_issues": 13,
             "owner": "insidegui",
             "repo": "AssetCatalogTinkerer",
-            "stars": 2880,
+            "stars": 2881,
             "topics": [
               "asset-catalog",
               "developer-tools",
@@ -2221,7 +2221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T07:16:24.929Z",
+    "last_updated": "2026-09-11T07:15:18.550Z",
     "original_repository_info": {
       "archived": false,
       "description": "QuickLook plugins and packages",
@@ -2233,7 +2233,7 @@
       "open_issues": 4,
       "owner": "haokaiyang",
       "repo": "Mac-QuickLook",
-      "stars": 1450,
+      "stars": 1451,
       "topics": [
         "awesome",
         "awesome-list",
