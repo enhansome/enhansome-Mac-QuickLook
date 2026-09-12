@@ -134,7 +134,7 @@
             "open_issues": 4,
             "owner": "ealeksandrov",
             "repo": "ProvisionQL",
-            "stars": 2458,
+            "stars": 2460,
             "topics": [
               "ios",
               "ios-dev",
@@ -1906,7 +1906,7 @@
             "open_issues": 83,
             "owner": "sbarex",
             "repo": "SourceCodeSyntaxHighlight",
-            "stars": 4235,
+            "stars": 4239,
             "topics": [
               "quicklook-extension",
               "quicklook-plugin"
@@ -1926,11 +1926,11 @@
             "id": 324601436,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-09T15:25:02Z",
-            "open_issues": 29,
+            "last_commit": "2026-09-11T09:28:59Z",
+            "open_issues": 25,
             "owner": "sbarex",
             "repo": "QLMarkdown",
-            "stars": 3524,
+            "stars": 3528,
             "topics": [
               "markdown-viewer",
               "quicklook-extension",
@@ -2066,7 +2066,7 @@
             "open_issues": 13,
             "owner": "insidegui",
             "repo": "AssetCatalogTinkerer",
-            "stars": 2881,
+            "stars": 2882,
             "topics": [
               "asset-catalog",
               "developer-tools",
@@ -2221,7 +2221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T07:15:18.550Z",
+    "last_updated": "2026-09-12T07:07:30.656Z",
     "original_repository_info": {
       "archived": false,
       "description": "QuickLook plugins and packages",
