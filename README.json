@@ -429,7 +429,7 @@
             "open_issues": 6,
             "owner": "Marginal",
             "repo": "QuickLookVideo",
-            "stars": 3565,
+            "stars": 3564,
             "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
@@ -1906,7 +1906,7 @@
             "open_issues": 83,
             "owner": "sbarex",
             "repo": "SourceCodeSyntaxHighlight",
-            "stars": 4239,
+            "stars": 4238,
             "topics": [
               "quicklook-extension",
               "quicklook-plugin"
@@ -1930,7 +1930,7 @@
             "open_issues": 25,
             "owner": "sbarex",
             "repo": "QLMarkdown",
-            "stars": 3528,
+            "stars": 3530,
             "topics": [
               "markdown-viewer",
               "quicklook-extension",
@@ -2129,7 +2129,7 @@
             "open_issues": 0,
             "owner": "jaromvogel",
             "repo": "ProcreateViewer",
-            "stars": 72,
+            "stars": 73,
             "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
@@ -2150,7 +2150,7 @@
             "open_issues": 0,
             "owner": "relikd",
             "repo": "QLAppBundle",
-            "stars": 15,
+            "stars": 16,
             "topics": [
               "apk",
               "appex",
@@ -2221,7 +2221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T07:07:30.656Z",
+    "last_updated": "2026-09-13T07:26:02.551Z",
     "original_repository_info": {
       "archived": false,
       "description": "QuickLook plugins and packages",
