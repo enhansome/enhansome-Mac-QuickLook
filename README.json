@@ -1897,16 +1897,16 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Quick Look extension for highlight source code files on macOS 10.15 and later.",
+            "description": "Quick Look extension for highlight source code files on macOS 12 and later.",
             "homepage": "https://sbarex.github.io/SourceCodeSyntaxHighlight/",
             "id": 216405620,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-14T12:46:07Z",
-            "open_issues": 66,
+            "last_commit": "2026-09-15T14:19:20Z",
+            "open_issues": 68,
             "owner": "sbarex",
             "repo": "SourceCodeSyntaxHighlight",
-            "stars": 4242,
+            "stars": 4244,
             "topics": [
               "quicklook-extension",
               "quicklook-plugin"
@@ -1930,7 +1930,7 @@
             "open_issues": 26,
             "owner": "sbarex",
             "repo": "QLMarkdown",
-            "stars": 3538,
+            "stars": 3542,
             "topics": [
               "markdown-viewer",
               "quicklook-extension",
@@ -2066,7 +2066,7 @@
             "open_issues": 13,
             "owner": "insidegui",
             "repo": "AssetCatalogTinkerer",
-            "stars": 2882,
+            "stars": 2883,
             "topics": [
               "asset-catalog",
               "developer-tools",
@@ -2221,7 +2221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T07:40:37.090Z",
+    "last_updated": "2026-09-16T07:39:11.547Z",
     "original_repository_info": {
       "archived": false,
       "description": "QuickLook plugins and packages",
