@@ -429,7 +429,7 @@
             "open_issues": 6,
             "owner": "Marginal",
             "repo": "QuickLookVideo",
-            "stars": 3570,
+            "stars": 3573,
             "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
@@ -861,7 +861,7 @@
             "open_issues": 10,
             "owner": "jaketmp",
             "repo": "ePub-quicklook",
-            "stars": 570,
+            "stars": 571,
             "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
@@ -1903,10 +1903,10 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-09-16T15:18:43Z",
-            "open_issues": 66,
+            "open_issues": 67,
             "owner": "sbarex",
             "repo": "SourceCodeSyntaxHighlight",
-            "stars": 4245,
+            "stars": 4252,
             "topics": [
               "quicklook-extension",
               "quicklook-plugin"
@@ -1926,11 +1926,11 @@
             "id": 324601436,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-11T09:28:59Z",
-            "open_issues": 26,
+            "last_commit": "2026-09-17T15:05:31Z",
+            "open_issues": 23,
             "owner": "sbarex",
             "repo": "QLMarkdown",
-            "stars": 3551,
+            "stars": 3559,
             "topics": [
               "markdown-viewer",
               "quicklook-extension",
@@ -2066,7 +2066,7 @@
             "open_issues": 13,
             "owner": "insidegui",
             "repo": "AssetCatalogTinkerer",
-            "stars": 2883,
+            "stars": 2884,
             "topics": [
               "asset-catalog",
               "developer-tools",
@@ -2221,7 +2221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T07:35:45.466Z",
+    "last_updated": "2026-09-18T07:22:10.742Z",
     "original_repository_info": {
       "archived": false,
       "description": "QuickLook plugins and packages",
@@ -2233,7 +2233,7 @@
       "open_issues": 4,
       "owner": "haokaiyang",
       "repo": "Mac-QuickLook",
-      "stars": 1452,
+      "stars": 1453,
       "topics": [
         "awesome",
         "awesome-list",
