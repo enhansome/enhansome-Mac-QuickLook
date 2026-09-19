@@ -861,7 +861,7 @@
             "open_issues": 10,
             "owner": "jaketmp",
             "repo": "ePub-quicklook",
-            "stars": 571,
+            "stars": 572,
             "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
@@ -1926,11 +1926,11 @@
             "id": 324601436,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-17T15:05:31Z",
-            "open_issues": 23,
+            "last_commit": "2026-09-18T10:00:19Z",
+            "open_issues": 18,
             "owner": "sbarex",
             "repo": "QLMarkdown",
-            "stars": 3559,
+            "stars": 3562,
             "topics": [
               "markdown-viewer",
               "quicklook-extension",
@@ -2066,7 +2066,7 @@
             "open_issues": 13,
             "owner": "insidegui",
             "repo": "AssetCatalogTinkerer",
-            "stars": 2884,
+            "stars": 2885,
             "topics": [
               "asset-catalog",
               "developer-tools",
@@ -2176,7 +2176,7 @@
             "id": 1029136238,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-04-24T13:21:15Z",
+            "last_commit": "2026-09-18T09:01:30Z",
             "open_issues": 0,
             "owner": "relikd",
             "repo": "QLJSON",
@@ -2202,7 +2202,7 @@
             "id": 1110031207,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-04-27T18:04:04Z",
+            "last_commit": "2026-09-18T08:55:04Z",
             "open_issues": 0,
             "owner": "relikd",
             "repo": "QLMarkdown",
@@ -2221,7 +2221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T07:22:10.742Z",
+    "last_updated": "2026-09-19T07:17:58.713Z",
     "original_repository_info": {
       "archived": false,
       "description": "QuickLook plugins and packages",
