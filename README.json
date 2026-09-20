@@ -429,7 +429,7 @@
             "open_issues": 6,
             "owner": "Marginal",
             "repo": "QuickLookVideo",
-            "stars": 3573,
+            "stars": 3574,
             "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
@@ -832,7 +832,7 @@
             "open_issues": 4,
             "owner": "Oil3",
             "repo": "Webm-QuickLook-Plug-In",
-            "stars": 153,
+            "stars": 152,
             "topics": [
               "macos",
               "notarized",
@@ -1903,10 +1903,10 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-09-16T15:18:43Z",
-            "open_issues": 67,
+            "open_issues": 69,
             "owner": "sbarex",
             "repo": "SourceCodeSyntaxHighlight",
-            "stars": 4252,
+            "stars": 4256,
             "topics": [
               "quicklook-extension",
               "quicklook-plugin"
@@ -1930,7 +1930,7 @@
             "open_issues": 18,
             "owner": "sbarex",
             "repo": "QLMarkdown",
-            "stars": 3562,
+            "stars": 3566,
             "topics": [
               "markdown-viewer",
               "quicklook-extension",
@@ -2221,7 +2221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T07:17:58.713Z",
+    "last_updated": "2026-09-20T07:43:01.216Z",
     "original_repository_info": {
       "archived": false,
       "description": "QuickLook plugins and packages",
