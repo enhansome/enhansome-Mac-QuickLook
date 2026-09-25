@@ -239,7 +239,7 @@
             "open_issues": 52,
             "owner": "toland",
             "repo": "qlmarkdown",
-            "stars": 3337,
+            "stars": 3338,
             "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
@@ -429,7 +429,7 @@
             "open_issues": 5,
             "owner": "Marginal",
             "repo": "QuickLookVideo",
-            "stars": 3586,
+            "stars": 3588,
             "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
@@ -1906,7 +1906,7 @@
             "open_issues": 68,
             "owner": "sbarex",
             "repo": "SourceCodeSyntaxHighlight",
-            "stars": 4275,
+            "stars": 4276,
             "topics": [
               "quicklook-extension",
               "quicklook-plugin"
@@ -1930,7 +1930,7 @@
             "open_issues": 20,
             "owner": "sbarex",
             "repo": "QLMarkdown",
-            "stars": 3589,
+            "stars": 3592,
             "topics": [
               "markdown-viewer",
               "quicklook-extension",
@@ -2221,7 +2221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T07:33:56.186Z",
+    "last_updated": "2026-09-25T07:43:29.200Z",
     "original_repository_info": {
       "archived": false,
       "description": "QuickLook plugins and packages",
