@@ -425,11 +425,11 @@
             "id": 21910366,
             "language": "Swift",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-23T15:51:23Z",
+            "last_commit": "2026-09-25T10:45:01Z",
             "open_issues": 5,
             "owner": "Marginal",
             "repo": "QuickLookVideo",
-            "stars": 3588,
+            "stars": 3591,
             "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
@@ -1906,7 +1906,7 @@
             "open_issues": 68,
             "owner": "sbarex",
             "repo": "SourceCodeSyntaxHighlight",
-            "stars": 4276,
+            "stars": 4277,
             "topics": [
               "quicklook-extension",
               "quicklook-plugin"
@@ -1930,7 +1930,7 @@
             "open_issues": 20,
             "owner": "sbarex",
             "repo": "QLMarkdown",
-            "stars": 3592,
+            "stars": 3594,
             "topics": [
               "markdown-viewer",
               "quicklook-extension",
@@ -2221,7 +2221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T07:43:29.200Z",
+    "last_updated": "2026-09-26T07:36:31.977Z",
     "original_repository_info": {
       "archived": false,
       "description": "QuickLook plugins and packages",
