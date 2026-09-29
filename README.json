@@ -92,7 +92,7 @@
             "open_issues": 0,
             "owner": "hacknus",
             "repo": "HDF5QL",
-            "stars": 3,
+            "stars": 4,
             "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
@@ -211,7 +211,7 @@
             "open_issues": 1,
             "owner": "Nyx0uf",
             "repo": "qlImageSize",
-            "stars": 1198,
+            "stars": 1199,
             "topics": [
               "bpg",
               "images",
@@ -345,7 +345,7 @@
             "open_issues": 1,
             "owner": "bfabiszewski",
             "repo": "QLMobi",
-            "stars": 137,
+            "stars": 138,
             "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
@@ -425,11 +425,11 @@
             "id": 21910366,
             "language": "Swift",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-26T17:11:50Z",
-            "open_issues": 6,
+            "last_commit": "2026-09-28T13:28:50Z",
+            "open_issues": 5,
             "owner": "Marginal",
             "repo": "QuickLookVideo",
-            "stars": 3594,
+            "stars": 3596,
             "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
@@ -1906,7 +1906,7 @@
             "open_issues": 68,
             "owner": "sbarex",
             "repo": "SourceCodeSyntaxHighlight",
-            "stars": 4284,
+            "stars": 4285,
             "topics": [
               "quicklook-extension",
               "quicklook-plugin"
@@ -1930,7 +1930,7 @@
             "open_issues": 20,
             "owner": "sbarex",
             "repo": "QLMarkdown",
-            "stars": 3600,
+            "stars": 3602,
             "topics": [
               "markdown-viewer",
               "quicklook-extension",
@@ -2221,7 +2221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T08:39:02.722Z",
+    "last_updated": "2026-09-29T08:24:21.917Z",
     "original_repository_info": {
       "archived": false,
       "description": "QuickLook plugins and packages",
@@ -2230,10 +2230,10 @@
       "language": "CSS",
       "license": "CC0-1.0",
       "last_commit": "2026-04-01T16:37:03Z",
-      "open_issues": 4,
+      "open_issues": 5,
       "owner": "haokaiyang",
       "repo": "Mac-QuickLook",
-      "stars": 1453,
+      "stars": 1454,
       "topics": [
         "awesome",
         "awesome-list",
