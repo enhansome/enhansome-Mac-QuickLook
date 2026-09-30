@@ -1926,11 +1926,11 @@
             "id": 324601436,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-23T18:49:34Z",
-            "open_issues": 20,
+            "last_commit": "2026-09-30T07:59:03Z",
+            "open_issues": 19,
             "owner": "sbarex",
             "repo": "QLMarkdown",
-            "stars": 3602,
+            "stars": 3605,
             "topics": [
               "markdown-viewer",
               "quicklook-extension",
@@ -2221,7 +2221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T08:24:21.917Z",
+    "last_updated": "2026-09-30T08:28:01.957Z",
     "original_repository_info": {
       "archived": false,
       "description": "QuickLook plugins and packages",
@@ -2233,7 +2233,7 @@
       "open_issues": 5,
       "owner": "haokaiyang",
       "repo": "Mac-QuickLook",
-      "stars": 1454,
+      "stars": 1455,
       "topics": [
         "awesome",
         "awesome-list",
