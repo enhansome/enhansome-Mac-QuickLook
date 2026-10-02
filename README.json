@@ -429,7 +429,7 @@
             "open_issues": 5,
             "owner": "Marginal",
             "repo": "QuickLookVideo",
-            "stars": 3598,
+            "stars": 3600,
             "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
@@ -1906,7 +1906,7 @@
             "open_issues": 68,
             "owner": "sbarex",
             "repo": "SourceCodeSyntaxHighlight",
-            "stars": 4284,
+            "stars": 4285,
             "topics": [
               "quicklook-extension",
               "quicklook-plugin"
@@ -1926,11 +1926,11 @@
             "id": 324601436,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-30T14:36:14Z",
-            "open_issues": 18,
+            "last_commit": "2026-10-02T06:49:15Z",
+            "open_issues": 19,
             "owner": "sbarex",
             "repo": "QLMarkdown",
-            "stars": 3609,
+            "stars": 3612,
             "topics": [
               "markdown-viewer",
               "quicklook-extension",
@@ -2221,7 +2221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T08:50:31.425Z",
+    "last_updated": "2026-10-02T08:26:37.907Z",
     "original_repository_info": {
       "archived": false,
       "description": "QuickLook plugins and packages",
@@ -2233,7 +2233,7 @@
       "open_issues": 5,
       "owner": "haokaiyang",
       "repo": "Mac-QuickLook",
-      "stars": 1455,
+      "stars": 1457,
       "topics": [
         "awesome",
         "awesome-list",
