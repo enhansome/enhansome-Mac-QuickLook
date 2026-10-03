@@ -177,7 +177,7 @@
         {
           "node_type": "item",
           "title": "QLColorCode-extra",
-          "description": null,
+          "description": "BrianGilbert/QLColorCode-extra",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -239,7 +239,7 @@
             "open_issues": 52,
             "owner": "toland",
             "repo": "qlmarkdown",
-            "stars": 3338,
+            "stars": 3337,
             "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
@@ -1926,11 +1926,11 @@
             "id": 324601436,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-02T06:49:15Z",
+            "last_commit": "2026-10-02T10:21:43Z",
             "open_issues": 19,
             "owner": "sbarex",
             "repo": "QLMarkdown",
-            "stars": 3612,
+            "stars": 3618,
             "topics": [
               "markdown-viewer",
               "quicklook-extension",
@@ -2221,7 +2221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T08:26:37.907Z",
+    "last_updated": "2026-10-03T04:30:05.976Z",
     "original_repository_info": {
       "archived": false,
       "description": "QuickLook plugins and packages",
@@ -2233,7 +2233,7 @@
       "open_issues": 5,
       "owner": "haokaiyang",
       "repo": "Mac-QuickLook",
-      "stars": 1457,
+      "stars": 1456,
       "topics": [
         "awesome",
         "awesome-list",
