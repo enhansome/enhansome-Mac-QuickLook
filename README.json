@@ -239,7 +239,7 @@
             "open_issues": 52,
             "owner": "toland",
             "repo": "qlmarkdown",
-            "stars": 3337,
+            "stars": 3336,
             "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
@@ -429,7 +429,7 @@
             "open_issues": 5,
             "owner": "Marginal",
             "repo": "QuickLookVideo",
-            "stars": 3600,
+            "stars": 3601,
             "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
@@ -807,7 +807,7 @@
             "open_issues": 14,
             "owner": "emin",
             "repo": "WebPQuickLook",
-            "stars": 797,
+            "stars": 795,
             "topics": [
               "quicklook",
               "quicklook-plugin",
@@ -832,7 +832,7 @@
             "open_issues": 4,
             "owner": "Oil3",
             "repo": "Webm-QuickLook-Plug-In",
-            "stars": 152,
+            "stars": 153,
             "topics": [
               "macos",
               "notarized",
@@ -1432,7 +1432,7 @@
             "open_issues": 12,
             "owner": "chockenberry",
             "repo": "Provisioning",
-            "stars": 1539,
+            "stars": 1538,
             "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
@@ -1926,11 +1926,11 @@
             "id": 324601436,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-02T10:21:43Z",
+            "last_commit": "2026-10-04T06:21:53Z",
             "open_issues": 19,
             "owner": "sbarex",
             "repo": "QLMarkdown",
-            "stars": 3618,
+            "stars": 3619,
             "topics": [
               "markdown-viewer",
               "quicklook-extension",
@@ -2221,7 +2221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T08:02:23.944Z",
+    "last_updated": "2026-10-04T08:24:18.458Z",
     "original_repository_info": {
       "archived": false,
       "description": "QuickLook plugins and packages",
