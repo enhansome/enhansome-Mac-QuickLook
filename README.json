@@ -366,7 +366,7 @@
             "open_issues": 40,
             "owner": "whomwah",
             "repo": "qlstephen",
-            "stars": 2835,
+            "stars": 2836,
             "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
@@ -429,7 +429,7 @@
             "open_issues": 5,
             "owner": "Marginal",
             "repo": "QuickLookVideo",
-            "stars": 3601,
+            "stars": 3603,
             "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
@@ -1873,7 +1873,7 @@
             "open_issues": 0,
             "owner": "relikd",
             "repo": "QLOPML",
-            "stars": 15,
+            "stars": 16,
             "topics": [
               "macos",
               "opml",
@@ -1906,7 +1906,7 @@
             "open_issues": 68,
             "owner": "sbarex",
             "repo": "SourceCodeSyntaxHighlight",
-            "stars": 4285,
+            "stars": 4287,
             "topics": [
               "quicklook-extension",
               "quicklook-plugin"
@@ -1927,10 +1927,10 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-10-04T06:21:53Z",
-            "open_issues": 19,
+            "open_issues": 20,
             "owner": "sbarex",
             "repo": "QLMarkdown",
-            "stars": 3619,
+            "stars": 3620,
             "topics": [
               "markdown-viewer",
               "quicklook-extension",
@@ -2221,7 +2221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T08:24:18.458Z",
+    "last_updated": "2026-10-05T08:56:53.580Z",
     "original_repository_info": {
       "archived": false,
       "description": "QuickLook plugins and packages",
