@@ -366,7 +366,7 @@
             "open_issues": 40,
             "owner": "whomwah",
             "repo": "qlstephen",
-            "stars": 2836,
+            "stars": 2837,
             "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
@@ -425,11 +425,11 @@
             "id": 21910366,
             "language": "Swift",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-28T13:28:50Z",
-            "open_issues": 7,
+            "last_commit": "2026-10-08T15:51:11Z",
+            "open_issues": 5,
             "owner": "Marginal",
             "repo": "QuickLookVideo",
-            "stars": 3606,
+            "stars": 3605,
             "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
@@ -587,7 +587,7 @@
             "open_issues": 2,
             "owner": "onekiloparsec",
             "repo": "QLFits",
-            "stars": 62,
+            "stars": 63,
             "topics": [
               "astronomy",
               "macos-quicklook-plugin",
@@ -832,7 +832,7 @@
             "open_issues": 4,
             "owner": "Oil3",
             "repo": "Webm-QuickLook-Plug-In",
-            "stars": 153,
+            "stars": 154,
             "topics": [
               "macos",
               "notarized",
@@ -1903,10 +1903,10 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-09-16T15:18:43Z",
-            "open_issues": 68,
+            "open_issues": 70,
             "owner": "sbarex",
             "repo": "SourceCodeSyntaxHighlight",
-            "stars": 4288,
+            "stars": 4291,
             "topics": [
               "quicklook-extension",
               "quicklook-plugin"
@@ -1927,10 +1927,10 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-10-04T06:21:53Z",
-            "open_issues": 20,
+            "open_issues": 23,
             "owner": "sbarex",
             "repo": "QLMarkdown",
-            "stars": 3627,
+            "stars": 3632,
             "topics": [
               "markdown-viewer",
               "quicklook-extension",
@@ -2066,7 +2066,7 @@
             "open_issues": 13,
             "owner": "insidegui",
             "repo": "AssetCatalogTinkerer",
-            "stars": 2886,
+            "stars": 2885,
             "topics": [
               "asset-catalog",
               "developer-tools",
@@ -2221,7 +2221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T08:53:55.353Z",
+    "last_updated": "2026-10-09T08:57:38.408Z",
     "original_repository_info": {
       "archived": false,
       "description": "QuickLook plugins and packages",
