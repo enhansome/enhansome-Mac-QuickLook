@@ -239,7 +239,7 @@
             "open_issues": 52,
             "owner": "toland",
             "repo": "qlmarkdown",
-            "stars": 3336,
+            "stars": 3337,
             "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
@@ -366,7 +366,7 @@
             "open_issues": 40,
             "owner": "whomwah",
             "repo": "qlstephen",
-            "stars": 2837,
+            "stars": 2838,
             "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
@@ -429,7 +429,7 @@
             "open_issues": 5,
             "owner": "Marginal",
             "repo": "QuickLookVideo",
-            "stars": 3605,
+            "stars": 3607,
             "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
@@ -966,7 +966,7 @@
             "open_issues": 11,
             "owner": "p2",
             "repo": "quicklook-csv",
-            "stars": 313,
+            "stars": 312,
             "topics": [
               "csv-files",
               "quicklook-plugin"
@@ -1906,7 +1906,7 @@
             "open_issues": 70,
             "owner": "sbarex",
             "repo": "SourceCodeSyntaxHighlight",
-            "stars": 4293,
+            "stars": 4294,
             "topics": [
               "quicklook-extension",
               "quicklook-plugin"
@@ -1930,7 +1930,7 @@
             "open_issues": 23,
             "owner": "sbarex",
             "repo": "QLMarkdown",
-            "stars": 3634,
+            "stars": 3635,
             "topics": [
               "markdown-viewer",
               "quicklook-extension",
@@ -2066,7 +2066,7 @@
             "open_issues": 13,
             "owner": "insidegui",
             "repo": "AssetCatalogTinkerer",
-            "stars": 2885,
+            "stars": 2886,
             "topics": [
               "asset-catalog",
               "developer-tools",
@@ -2221,7 +2221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T08:26:28.835Z",
+    "last_updated": "2026-10-11T08:44:09.248Z",
     "original_repository_info": {
       "archived": false,
       "description": "QuickLook plugins and packages",
