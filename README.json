@@ -440,13 +440,13 @@
           "description": "A QuickLook plugin that lets you view subtitles .srt files like Addic7ed.com on mac .srt",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "A QuickLook plugin that lets you view subtitles .srt files like Addic7ed.com on mac",
             "homepage": null,
             "id": 86635541,
             "language": "Objective-C",
             "license": "GPL-3.0",
-            "last_commit": "2023-03-17T05:04:47Z",
+            "last_commit": "2026-10-11T13:41:07Z",
             "open_issues": 8,
             "owner": "tattali",
             "repo": "QLAddict",
@@ -1906,7 +1906,7 @@
             "open_issues": 70,
             "owner": "sbarex",
             "repo": "SourceCodeSyntaxHighlight",
-            "stars": 4294,
+            "stars": 4295,
             "topics": [
               "quicklook-extension",
               "quicklook-plugin"
@@ -1930,7 +1930,7 @@
             "open_issues": 23,
             "owner": "sbarex",
             "repo": "QLMarkdown",
-            "stars": 3635,
+            "stars": 3638,
             "topics": [
               "markdown-viewer",
               "quicklook-extension",
@@ -2150,7 +2150,7 @@
             "open_issues": 0,
             "owner": "relikd",
             "repo": "QLAppBundle",
-            "stars": 16,
+            "stars": 17,
             "topics": [
               "apk",
               "appex",
@@ -2221,7 +2221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T08:44:09.248Z",
+    "last_updated": "2026-10-12T09:07:09.873Z",
     "original_repository_info": {
       "archived": false,
       "description": "QuickLook plugins and packages",
@@ -2233,7 +2233,7 @@
       "open_issues": 5,
       "owner": "haokaiyang",
       "repo": "Mac-QuickLook",
-      "stars": 1460,
+      "stars": 1463,
       "topics": [
         "awesome",
         "awesome-list",
