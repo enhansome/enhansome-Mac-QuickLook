@@ -164,7 +164,7 @@
             "open_issues": 22,
             "owner": "anthonygelibert",
             "repo": "QLColorCode",
-            "stars": 714,
+            "stars": 715,
             "topics": [
               "code-source",
               "highlight",
@@ -311,7 +311,7 @@
             "open_issues": 9,
             "owner": "Oil3",
             "repo": "Mkv-Quicklook",
-            "stars": 120,
+            "stars": 121,
             "topics": [
               "appex",
               "bigsur",
@@ -1096,8 +1096,8 @@
             "id": 111159292,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2022-11-27T13:26:25Z",
-            "open_issues": 19,
+            "last_commit": "2026-10-13T08:21:36Z",
+            "open_issues": 0,
             "owner": "magicien",
             "repo": "GLTFQuickLook",
             "stars": 273,
@@ -1213,7 +1213,7 @@
             "id": 112117402,
             "language": "Objective-C",
             "license": null,
-            "last_commit": "2019-10-29T03:17:06Z",
+            "last_commit": "2026-10-13T08:21:44Z",
             "open_issues": 0,
             "owner": "magicien",
             "repo": "MikuMikuDanceQuickLook",
@@ -1903,10 +1903,10 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-09-16T15:18:43Z",
-            "open_issues": 70,
+            "open_issues": 71,
             "owner": "sbarex",
             "repo": "SourceCodeSyntaxHighlight",
-            "stars": 4295,
+            "stars": 4298,
             "topics": [
               "quicklook-extension",
               "quicklook-plugin"
@@ -1930,7 +1930,7 @@
             "open_issues": 23,
             "owner": "sbarex",
             "repo": "QLMarkdown",
-            "stars": 3638,
+            "stars": 3644,
             "topics": [
               "markdown-viewer",
               "quicklook-extension",
@@ -2066,7 +2066,7 @@
             "open_issues": 13,
             "owner": "insidegui",
             "repo": "AssetCatalogTinkerer",
-            "stars": 2886,
+            "stars": 2885,
             "topics": [
               "asset-catalog",
               "developer-tools",
@@ -2221,7 +2221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T09:07:09.873Z",
+    "last_updated": "2026-10-13T09:21:12.699Z",
     "original_repository_info": {
       "archived": false,
       "description": "QuickLook plugins and packages",
