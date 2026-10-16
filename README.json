@@ -134,7 +134,7 @@
             "open_issues": 4,
             "owner": "ealeksandrov",
             "repo": "ProvisionQL",
-            "stars": 2464,
+            "stars": 2466,
             "topics": [
               "ios",
               "ios-dev",
@@ -1906,7 +1906,7 @@
             "open_issues": 71,
             "owner": "sbarex",
             "repo": "SourceCodeSyntaxHighlight",
-            "stars": 4304,
+            "stars": 4306,
             "topics": [
               "quicklook-extension",
               "quicklook-plugin"
@@ -1930,7 +1930,7 @@
             "open_issues": 23,
             "owner": "sbarex",
             "repo": "QLMarkdown",
-            "stars": 3649,
+            "stars": 3652,
             "topics": [
               "markdown-viewer",
               "quicklook-extension",
@@ -2221,7 +2221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T07:22:23.569Z",
+    "last_updated": "2026-10-16T07:06:08.025Z",
     "original_repository_info": {
       "archived": false,
       "description": "QuickLook plugins and packages",
@@ -2233,7 +2233,7 @@
       "open_issues": 5,
       "owner": "haokaiyang",
       "repo": "Mac-QuickLook",
-      "stars": 1462,
+      "stars": 1463,
       "topics": [
         "awesome",
         "awesome-list",
