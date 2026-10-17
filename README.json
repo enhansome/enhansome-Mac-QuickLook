@@ -134,7 +134,7 @@
             "open_issues": 4,
             "owner": "ealeksandrov",
             "repo": "ProvisionQL",
-            "stars": 2466,
+            "stars": 2467,
             "topics": [
               "ios",
               "ios-dev",
@@ -236,10 +236,10 @@
             "language": "CSS",
             "license": null,
             "last_commit": "2023-12-06T17:49:41Z",
-            "open_issues": 52,
+            "open_issues": 51,
             "owner": "toland",
             "repo": "qlmarkdown",
-            "stars": 3338,
+            "stars": 3339,
             "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
@@ -311,7 +311,7 @@
             "open_issues": 9,
             "owner": "Oil3",
             "repo": "Mkv-Quicklook",
-            "stars": 120,
+            "stars": 122,
             "topics": [
               "appex",
               "bigsur",
@@ -426,7 +426,7 @@
             "language": "Swift",
             "license": "GPL-2.0",
             "last_commit": "2026-10-08T15:51:11Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "Marginal",
             "repo": "QuickLookVideo",
             "stars": 3613,
@@ -1906,7 +1906,7 @@
             "open_issues": 71,
             "owner": "sbarex",
             "repo": "SourceCodeSyntaxHighlight",
-            "stars": 4306,
+            "stars": 4308,
             "topics": [
               "quicklook-extension",
               "quicklook-plugin"
@@ -1930,7 +1930,7 @@
             "open_issues": 23,
             "owner": "sbarex",
             "repo": "QLMarkdown",
-            "stars": 3652,
+            "stars": 3656,
             "topics": [
               "markdown-viewer",
               "quicklook-extension",
@@ -2221,7 +2221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T07:06:08.025Z",
+    "last_updated": "2026-10-17T06:52:59.322Z",
     "original_repository_info": {
       "archived": false,
       "description": "QuickLook plugins and packages",
