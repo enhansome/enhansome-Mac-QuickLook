@@ -1927,10 +1927,10 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-10-04T06:21:53Z",
-            "open_issues": 23,
+            "open_issues": 24,
             "owner": "sbarex",
             "repo": "QLMarkdown",
-            "stars": 3656,
+            "stars": 3657,
             "topics": [
               "markdown-viewer",
               "quicklook-extension",
@@ -2066,7 +2066,7 @@
             "open_issues": 13,
             "owner": "insidegui",
             "repo": "AssetCatalogTinkerer",
-            "stars": 2885,
+            "stars": 2886,
             "topics": [
               "asset-catalog",
               "developer-tools",
@@ -2221,7 +2221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T06:52:59.322Z",
+    "last_updated": "2026-10-18T07:11:26.027Z",
     "original_repository_info": {
       "archived": false,
       "description": "QuickLook plugins and packages",
