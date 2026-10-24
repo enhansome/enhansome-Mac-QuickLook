@@ -311,7 +311,7 @@
             "open_issues": 9,
             "owner": "Oil3",
             "repo": "Mkv-Quicklook",
-            "stars": 123,
+            "stars": 125,
             "topics": [
               "appex",
               "bigsur",
@@ -425,11 +425,11 @@
             "id": 21910366,
             "language": "Swift",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-08T15:51:11Z",
-            "open_issues": 7,
+            "last_commit": "2026-10-23T17:49:25Z",
+            "open_issues": 6,
             "owner": "Marginal",
             "repo": "QuickLookVideo",
-            "stars": 3621,
+            "stars": 3622,
             "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
@@ -1621,7 +1621,7 @@
             "open_issues": 1,
             "owner": "heptal",
             "repo": "VoxQL",
-            "stars": 39,
+            "stars": 40,
             "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
@@ -1906,7 +1906,7 @@
             "open_issues": 72,
             "owner": "sbarex",
             "repo": "SourceCodeSyntaxHighlight",
-            "stars": 4319,
+            "stars": 4318,
             "topics": [
               "quicklook-extension",
               "quicklook-plugin"
@@ -1930,7 +1930,7 @@
             "open_issues": 25,
             "owner": "sbarex",
             "repo": "QLMarkdown",
-            "stars": 3674,
+            "stars": 3678,
             "topics": [
               "markdown-viewer",
               "quicklook-extension",
@@ -2221,7 +2221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T07:25:07.911Z",
+    "last_updated": "2026-10-24T07:14:43.636Z",
     "original_repository_info": {
       "archived": false,
       "description": "QuickLook plugins and packages",
@@ -2233,7 +2233,7 @@
       "open_issues": 5,
       "owner": "haokaiyang",
       "repo": "Mac-QuickLook",
-      "stars": 1465,
+      "stars": 1466,
       "topics": [
         "awesome",
         "awesome-list",
