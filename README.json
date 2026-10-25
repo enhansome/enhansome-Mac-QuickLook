@@ -211,7 +211,7 @@
             "open_issues": 1,
             "owner": "Nyx0uf",
             "repo": "qlImageSize",
-            "stars": 1200,
+            "stars": 1199,
             "topics": [
               "bpg",
               "images",
@@ -1930,7 +1930,7 @@
             "open_issues": 25,
             "owner": "sbarex",
             "repo": "QLMarkdown",
-            "stars": 3678,
+            "stars": 3680,
             "topics": [
               "markdown-viewer",
               "quicklook-extension",
@@ -2129,7 +2129,7 @@
             "open_issues": 0,
             "owner": "jaromvogel",
             "repo": "ProcreateViewer",
-            "stars": 72,
+            "stars": 71,
             "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
@@ -2221,7 +2221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T07:14:43.636Z",
+    "last_updated": "2026-10-25T07:32:46.032Z",
     "original_repository_info": {
       "archived": false,
       "description": "QuickLook plugins and packages",
@@ -2233,7 +2233,7 @@
       "open_issues": 5,
       "owner": "haokaiyang",
       "repo": "Mac-QuickLook",
-      "stars": 1466,
+      "stars": 1467,
       "topics": [
         "awesome",
         "awesome-list",
