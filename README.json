@@ -164,7 +164,7 @@
             "open_issues": 22,
             "owner": "anthonygelibert",
             "repo": "QLColorCode",
-            "stars": 716,
+            "stars": 717,
             "topics": [
               "code-source",
               "highlight",
@@ -832,7 +832,7 @@
             "open_issues": 4,
             "owner": "Oil3",
             "repo": "Webm-QuickLook-Plug-In",
-            "stars": 156,
+            "stars": 157,
             "topics": [
               "macos",
               "notarized",
@@ -1906,7 +1906,7 @@
             "open_issues": 72,
             "owner": "sbarex",
             "repo": "SourceCodeSyntaxHighlight",
-            "stars": 4327,
+            "stars": 4329,
             "topics": [
               "quicklook-extension",
               "quicklook-plugin"
@@ -1930,7 +1930,7 @@
             "open_issues": 26,
             "owner": "sbarex",
             "repo": "QLMarkdown",
-            "stars": 3710,
+            "stars": 3713,
             "topics": [
               "markdown-viewer",
               "quicklook-extension",
@@ -2221,7 +2221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T08:21:54.953Z",
+    "last_updated": "2026-11-01T09:09:51.977Z",
     "original_repository_info": {
       "archived": false,
       "description": "QuickLook plugins and packages",
@@ -2233,7 +2233,7 @@
       "open_issues": 6,
       "owner": "haokaiyang",
       "repo": "Mac-QuickLook",
-      "stars": 1469,
+      "stars": 1470,
       "topics": [
         "awesome",
         "awesome-list",
