@@ -366,7 +366,7 @@
             "open_issues": 40,
             "owner": "whomwah",
             "repo": "qlstephen",
-            "stars": 2843,
+            "stars": 2842,
             "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
@@ -429,7 +429,7 @@
             "open_issues": 6,
             "owner": "Marginal",
             "repo": "QuickLookVideo",
-            "stars": 3629,
+            "stars": 3630,
             "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
@@ -1621,7 +1621,7 @@
             "open_issues": 1,
             "owner": "heptal",
             "repo": "VoxQL",
-            "stars": 40,
+            "stars": 39,
             "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
@@ -1906,7 +1906,7 @@
             "open_issues": 72,
             "owner": "sbarex",
             "repo": "SourceCodeSyntaxHighlight",
-            "stars": 4329,
+            "stars": 4331,
             "topics": [
               "quicklook-extension",
               "quicklook-plugin"
@@ -1930,7 +1930,7 @@
             "open_issues": 26,
             "owner": "sbarex",
             "repo": "QLMarkdown",
-            "stars": 3713,
+            "stars": 3722,
             "topics": [
               "markdown-viewer",
               "quicklook-extension",
@@ -2221,7 +2221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T09:09:51.977Z",
+    "last_updated": "2026-11-02T09:24:06.410Z",
     "original_repository_info": {
       "archived": false,
       "description": "QuickLook plugins and packages",
