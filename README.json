@@ -190,7 +190,7 @@
             "open_issues": 3,
             "owner": "BrianGilbert",
             "repo": "QLColorCode-extra",
-            "stars": 94,
+            "stars": 93,
             "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
@@ -239,7 +239,7 @@
             "open_issues": 51,
             "owner": "toland",
             "repo": "qlmarkdown",
-            "stars": 3340,
+            "stars": 3339,
             "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
@@ -311,7 +311,7 @@
             "open_issues": 9,
             "owner": "Oil3",
             "repo": "Mkv-Quicklook",
-            "stars": 125,
+            "stars": 127,
             "topics": [
               "appex",
               "bigsur",
@@ -1906,7 +1906,7 @@
             "open_issues": 72,
             "owner": "sbarex",
             "repo": "SourceCodeSyntaxHighlight",
-            "stars": 4331,
+            "stars": 4333,
             "topics": [
               "quicklook-extension",
               "quicklook-plugin"
@@ -1927,10 +1927,10 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-10-04T06:21:53Z",
-            "open_issues": 26,
+            "open_issues": 27,
             "owner": "sbarex",
             "repo": "QLMarkdown",
-            "stars": 3722,
+            "stars": 3724,
             "topics": [
               "markdown-viewer",
               "quicklook-extension",
@@ -2221,7 +2221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T09:24:06.410Z",
+    "last_updated": "2026-11-03T09:27:56.483Z",
     "original_repository_info": {
       "archived": false,
       "description": "QuickLook plugins and packages",
