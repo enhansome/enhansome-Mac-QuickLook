@@ -134,7 +134,7 @@
             "open_issues": 4,
             "owner": "ealeksandrov",
             "repo": "ProvisionQL",
-            "stars": 2469,
+            "stars": 2471,
             "topics": [
               "ios",
               "ios-dev",
@@ -420,17 +420,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Finder Thumbnails, Quick Look previews, Get Info metadata and previews for most types of audio and video files.",
+            "description": "Thumbnails in Finder, Quick Look previews, and metadata in Spotlight and Finder's Get Info window for most types of audio and video files.",
             "homepage": null,
             "id": 21910366,
             "language": "Swift",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-05T19:09:42Z",
+            "last_commit": "2026-11-06T13:02:15Z",
             "open_issues": 5,
             "owner": "Marginal",
             "repo": "QuickLookVideo",
-            "stars": 3634,
-            "topics": []
+            "stars": 3635,
+            "topics": [
+              "av1",
+              "avi",
+              "matroska",
+              "preview",
+              "quicklook",
+              "spotlight",
+              "thumbnail-generator",
+              "thumbnails",
+              "video",
+              "vp9",
+              "wmv"
+            ]
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
         },
@@ -1906,7 +1918,7 @@
             "open_issues": 72,
             "owner": "sbarex",
             "repo": "SourceCodeSyntaxHighlight",
-            "stars": 4339,
+            "stars": 4340,
             "topics": [
               "quicklook-extension",
               "quicklook-plugin"
@@ -1930,7 +1942,7 @@
             "open_issues": 28,
             "owner": "sbarex",
             "repo": "QLMarkdown",
-            "stars": 3742,
+            "stars": 3743,
             "topics": [
               "markdown-viewer",
               "quicklook-extension",
@@ -2150,7 +2162,7 @@
             "open_issues": 0,
             "owner": "relikd",
             "repo": "QLAppBundle",
-            "stars": 17,
+            "stars": 18,
             "topics": [
               "apk",
               "appex",
@@ -2221,7 +2233,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T09:18:49.010Z",
+    "last_updated": "2026-11-07T08:42:06.901Z",
     "original_repository_info": {
       "archived": false,
       "description": "QuickLook plugins and packages",
@@ -2233,7 +2245,7 @@
       "open_issues": 6,
       "owner": "haokaiyang",
       "repo": "Mac-QuickLook",
-      "stars": 1473,
+      "stars": 1474,
       "topics": [
         "awesome",
         "awesome-list",
