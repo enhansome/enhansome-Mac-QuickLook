@@ -134,7 +134,7 @@
             "open_issues": 4,
             "owner": "ealeksandrov",
             "repo": "ProvisionQL",
-            "stars": 2471,
+            "stars": 2472,
             "topics": [
               "ios",
               "ios-dev",
@@ -429,7 +429,7 @@
             "open_issues": 5,
             "owner": "Marginal",
             "repo": "QuickLookVideo",
-            "stars": 3635,
+            "stars": 3637,
             "topics": [
               "av1",
               "avi",
@@ -1070,7 +1070,7 @@
             "open_issues": 5,
             "owner": "seagirl",
             "repo": "QLWaveForm",
-            "stars": 27,
+            "stars": 28,
             "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
@@ -1918,7 +1918,7 @@
             "open_issues": 72,
             "owner": "sbarex",
             "repo": "SourceCodeSyntaxHighlight",
-            "stars": 4340,
+            "stars": 4342,
             "topics": [
               "quicklook-extension",
               "quicklook-plugin"
@@ -1942,7 +1942,7 @@
             "open_issues": 28,
             "owner": "sbarex",
             "repo": "QLMarkdown",
-            "stars": 3743,
+            "stars": 3746,
             "topics": [
               "markdown-viewer",
               "quicklook-extension",
@@ -2078,7 +2078,7 @@
             "open_issues": 13,
             "owner": "insidegui",
             "repo": "AssetCatalogTinkerer",
-            "stars": 2896,
+            "stars": 2897,
             "topics": [
               "asset-catalog",
               "developer-tools",
@@ -2233,7 +2233,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T08:42:06.901Z",
+    "last_updated": "2026-11-08T08:56:03.745Z",
     "original_repository_info": {
       "archived": false,
       "description": "QuickLook plugins and packages",
@@ -2245,7 +2245,7 @@
       "open_issues": 6,
       "owner": "haokaiyang",
       "repo": "Mac-QuickLook",
-      "stars": 1474,
+      "stars": 1475,
       "topics": [
         "awesome",
         "awesome-list",
