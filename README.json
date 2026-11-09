@@ -190,7 +190,7 @@
             "open_issues": 3,
             "owner": "BrianGilbert",
             "repo": "QLColorCode-extra",
-            "stars": 93,
+            "stars": 92,
             "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
@@ -260,7 +260,7 @@
             "open_issues": 0,
             "owner": "ruspg",
             "repo": "markdown-quicklook",
-            "stars": 12,
+            "stars": 13,
             "topics": [
               "finder",
               "macos",
@@ -366,7 +366,7 @@
             "open_issues": 40,
             "owner": "whomwah",
             "repo": "qlstephen",
-            "stars": 2842,
+            "stars": 2843,
             "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
@@ -429,7 +429,7 @@
             "open_issues": 5,
             "owner": "Marginal",
             "repo": "QuickLookVideo",
-            "stars": 3637,
+            "stars": 3639,
             "topics": [
               "av1",
               "avi",
@@ -578,7 +578,7 @@
             "open_issues": 1,
             "owner": "atnan",
             "repo": "QLPrettyPatch",
-            "stars": 93,
+            "stars": 92,
             "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
@@ -978,7 +978,7 @@
             "open_issues": 11,
             "owner": "p2",
             "repo": "quicklook-csv",
-            "stars": 312,
+            "stars": 311,
             "topics": [
               "csv-files",
               "quicklook-plugin"
@@ -1274,7 +1274,7 @@
             "open_issues": 0,
             "owner": "Nyx0uf",
             "repo": "qlMoviePreview",
-            "stars": 186,
+            "stars": 185,
             "topics": [
               "cocoa",
               "objective-c",
@@ -1918,7 +1918,7 @@
             "open_issues": 72,
             "owner": "sbarex",
             "repo": "SourceCodeSyntaxHighlight",
-            "stars": 4342,
+            "stars": 4344,
             "topics": [
               "quicklook-extension",
               "quicklook-plugin"
@@ -1942,7 +1942,7 @@
             "open_issues": 28,
             "owner": "sbarex",
             "repo": "QLMarkdown",
-            "stars": 3746,
+            "stars": 3745,
             "topics": [
               "markdown-viewer",
               "quicklook-extension",
@@ -2078,7 +2078,7 @@
             "open_issues": 13,
             "owner": "insidegui",
             "repo": "AssetCatalogTinkerer",
-            "stars": 2897,
+            "stars": 2898,
             "topics": [
               "asset-catalog",
               "developer-tools",
@@ -2192,7 +2192,7 @@
             "open_issues": 0,
             "owner": "relikd",
             "repo": "QLJSON",
-            "stars": 6,
+            "stars": 7,
             "topics": [
               "json",
               "macos",
@@ -2233,7 +2233,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T08:56:03.745Z",
+    "last_updated": "2026-11-09T09:42:47.799Z",
     "original_repository_info": {
       "archived": false,
       "description": "QuickLook plugins and packages",
