@@ -429,7 +429,7 @@
             "open_issues": 5,
             "owner": "Marginal",
             "repo": "QuickLookVideo",
-            "stars": 3639,
+            "stars": 3641,
             "topics": [
               "av1",
               "avi",
@@ -819,7 +819,7 @@
             "open_issues": 14,
             "owner": "emin",
             "repo": "WebPQuickLook",
-            "stars": 795,
+            "stars": 796,
             "topics": [
               "quicklook",
               "quicklook-plugin",
@@ -1918,7 +1918,7 @@
             "open_issues": 72,
             "owner": "sbarex",
             "repo": "SourceCodeSyntaxHighlight",
-            "stars": 4344,
+            "stars": 4345,
             "topics": [
               "quicklook-extension",
               "quicklook-plugin"
@@ -1942,7 +1942,7 @@
             "open_issues": 28,
             "owner": "sbarex",
             "repo": "QLMarkdown",
-            "stars": 3745,
+            "stars": 3749,
             "topics": [
               "markdown-viewer",
               "quicklook-extension",
@@ -2078,7 +2078,7 @@
             "open_issues": 13,
             "owner": "insidegui",
             "repo": "AssetCatalogTinkerer",
-            "stars": 2898,
+            "stars": 2897,
             "topics": [
               "asset-catalog",
               "developer-tools",
@@ -2233,7 +2233,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T09:42:47.799Z",
+    "last_updated": "2026-11-10T09:42:22.016Z",
     "original_repository_info": {
       "archived": false,
       "description": "QuickLook plugins and packages",
@@ -2245,7 +2245,7 @@
       "open_issues": 6,
       "owner": "haokaiyang",
       "repo": "Mac-QuickLook",
-      "stars": 1475,
+      "stars": 1476,
       "topics": [
         "awesome",
         "awesome-list",
