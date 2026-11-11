@@ -290,7 +290,7 @@
             "open_issues": 1,
             "owner": "fletcher",
             "repo": "MMD-QuickLook",
-            "stars": 104,
+            "stars": 105,
             "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
@@ -425,11 +425,11 @@
             "id": 21910366,
             "language": "Swift",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-06T13:02:15Z",
+            "last_commit": "2026-11-10T17:37:23Z",
             "open_issues": 5,
             "owner": "Marginal",
             "repo": "QuickLookVideo",
-            "stars": 3641,
+            "stars": 3642,
             "topics": [
               "av1",
               "avi",
@@ -819,7 +819,7 @@
             "open_issues": 14,
             "owner": "emin",
             "repo": "WebPQuickLook",
-            "stars": 796,
+            "stars": 797,
             "topics": [
               "quicklook",
               "quicklook-plugin",
@@ -1918,7 +1918,7 @@
             "open_issues": 72,
             "owner": "sbarex",
             "repo": "SourceCodeSyntaxHighlight",
-            "stars": 4345,
+            "stars": 4348,
             "topics": [
               "quicklook-extension",
               "quicklook-plugin"
@@ -1942,7 +1942,7 @@
             "open_issues": 28,
             "owner": "sbarex",
             "repo": "QLMarkdown",
-            "stars": 3749,
+            "stars": 3752,
             "topics": [
               "markdown-viewer",
               "quicklook-extension",
@@ -2233,7 +2233,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T09:42:22.016Z",
+    "last_updated": "2026-11-11T09:17:57.409Z",
     "original_repository_info": {
       "archived": false,
       "description": "QuickLook plugins and packages",
