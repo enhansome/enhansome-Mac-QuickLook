@@ -239,7 +239,7 @@
             "open_issues": 51,
             "owner": "toland",
             "repo": "qlmarkdown",
-            "stars": 3338,
+            "stars": 3337,
             "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
@@ -1137,7 +1137,7 @@
             "open_issues": 2,
             "owner": "srirangav",
             "repo": "qlZipInfo",
-            "stars": 177,
+            "stars": 176,
             "topics": [
               "compression",
               "macos",
@@ -1918,7 +1918,7 @@
             "open_issues": 72,
             "owner": "sbarex",
             "repo": "SourceCodeSyntaxHighlight",
-            "stars": 4348,
+            "stars": 4351,
             "topics": [
               "quicklook-extension",
               "quicklook-plugin"
@@ -1939,10 +1939,10 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-10-04T06:21:53Z",
-            "open_issues": 28,
+            "open_issues": 29,
             "owner": "sbarex",
             "repo": "QLMarkdown",
-            "stars": 3752,
+            "stars": 3757,
             "topics": [
               "markdown-viewer",
               "quicklook-extension",
@@ -2233,7 +2233,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T09:17:57.409Z",
+    "last_updated": "2026-11-12T09:44:12.850Z",
     "original_repository_info": {
       "archived": false,
       "description": "QuickLook plugins and packages",
