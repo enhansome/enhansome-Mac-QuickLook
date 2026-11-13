@@ -366,7 +366,7 @@
             "open_issues": 40,
             "owner": "whomwah",
             "repo": "qlstephen",
-            "stars": 2843,
+            "stars": 2844,
             "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
@@ -425,11 +425,11 @@
             "id": 21910366,
             "language": "Swift",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-10T17:37:23Z",
+            "last_commit": "2026-11-12T14:25:40Z",
             "open_issues": 5,
             "owner": "Marginal",
             "repo": "QuickLookVideo",
-            "stars": 3642,
+            "stars": 3644,
             "topics": [
               "av1",
               "avi",
@@ -844,7 +844,7 @@
             "open_issues": 4,
             "owner": "Oil3",
             "repo": "Webm-QuickLook-Plug-In",
-            "stars": 157,
+            "stars": 158,
             "topics": [
               "macos",
               "notarized",
@@ -1112,7 +1112,7 @@
             "open_issues": 0,
             "owner": "magicien",
             "repo": "GLTFQuickLook",
-            "stars": 273,
+            "stars": 274,
             "topics": [
               "gltf",
               "macos-quicklook-plugin",
@@ -1918,7 +1918,7 @@
             "open_issues": 72,
             "owner": "sbarex",
             "repo": "SourceCodeSyntaxHighlight",
-            "stars": 4351,
+            "stars": 4354,
             "topics": [
               "quicklook-extension",
               "quicklook-plugin"
@@ -1942,7 +1942,7 @@
             "open_issues": 29,
             "owner": "sbarex",
             "repo": "QLMarkdown",
-            "stars": 3757,
+            "stars": 3761,
             "topics": [
               "markdown-viewer",
               "quicklook-extension",
@@ -2078,7 +2078,7 @@
             "open_issues": 13,
             "owner": "insidegui",
             "repo": "AssetCatalogTinkerer",
-            "stars": 2897,
+            "stars": 2899,
             "topics": [
               "asset-catalog",
               "developer-tools",
@@ -2233,7 +2233,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T09:44:12.850Z",
+    "last_updated": "2026-11-13T09:27:37.646Z",
     "original_repository_info": {
       "archived": false,
       "description": "QuickLook plugins and packages",
