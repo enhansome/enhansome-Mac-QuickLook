@@ -366,7 +366,7 @@
             "open_issues": 40,
             "owner": "whomwah",
             "repo": "qlstephen",
-            "stars": 2844,
+            "stars": 2845,
             "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
@@ -429,7 +429,7 @@
             "open_issues": 5,
             "owner": "Marginal",
             "repo": "QuickLookVideo",
-            "stars": 3644,
+            "stars": 3645,
             "topics": [
               "av1",
               "avi",
@@ -1942,7 +1942,7 @@
             "open_issues": 29,
             "owner": "sbarex",
             "repo": "QLMarkdown",
-            "stars": 3761,
+            "stars": 3762,
             "topics": [
               "markdown-viewer",
               "quicklook-extension",
@@ -2233,7 +2233,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T09:27:37.646Z",
+    "last_updated": "2026-11-14T08:55:12.346Z",
     "original_repository_info": {
       "archived": false,
       "description": "QuickLook plugins and packages",
