@@ -1918,7 +1918,7 @@
             "open_issues": 72,
             "owner": "sbarex",
             "repo": "SourceCodeSyntaxHighlight",
-            "stars": 4354,
+            "stars": 4355,
             "topics": [
               "quicklook-extension",
               "quicklook-plugin"
@@ -1942,7 +1942,7 @@
             "open_issues": 29,
             "owner": "sbarex",
             "repo": "QLMarkdown",
-            "stars": 3762,
+            "stars": 3763,
             "topics": [
               "markdown-viewer",
               "quicklook-extension",
@@ -2233,7 +2233,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T08:55:12.346Z",
+    "last_updated": "2026-11-15T09:16:11.137Z",
     "original_repository_info": {
       "archived": false,
       "description": "QuickLook plugins and packages",
@@ -2245,7 +2245,7 @@
       "open_issues": 6,
       "owner": "haokaiyang",
       "repo": "Mac-QuickLook",
-      "stars": 1476,
+      "stars": 1477,
       "topics": [
         "awesome",
         "awesome-list",
