@@ -426,10 +426,10 @@
             "language": "Swift",
             "license": "GPL-2.0",
             "last_commit": "2026-11-12T14:25:40Z",
-            "open_issues": 6,
+            "open_issues": 5,
             "owner": "Marginal",
             "repo": "QuickLookVideo",
-            "stars": 3645,
+            "stars": 3648,
             "topics": [
               "av1",
               "avi",
@@ -873,7 +873,7 @@
             "open_issues": 10,
             "owner": "jaketmp",
             "repo": "ePub-quicklook",
-            "stars": 572,
+            "stars": 573,
             "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
@@ -936,7 +936,7 @@
             "open_issues": 6,
             "owner": "planbnet",
             "repo": "QuickNFO",
-            "stars": 302,
+            "stars": 303,
             "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
@@ -978,7 +978,7 @@
             "open_issues": 11,
             "owner": "p2",
             "repo": "quicklook-csv",
-            "stars": 311,
+            "stars": 312,
             "topics": [
               "csv-files",
               "quicklook-plugin"
@@ -1915,7 +1915,7 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-09-16T15:18:43Z",
-            "open_issues": 72,
+            "open_issues": 73,
             "owner": "sbarex",
             "repo": "SourceCodeSyntaxHighlight",
             "stars": 4354,
@@ -1939,10 +1939,10 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-10-04T06:21:53Z",
-            "open_issues": 29,
+            "open_issues": 30,
             "owner": "sbarex",
             "repo": "QLMarkdown",
-            "stars": 3765,
+            "stars": 3768,
             "topics": [
               "markdown-viewer",
               "quicklook-extension",
@@ -2233,7 +2233,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T09:33:42.807Z",
+    "last_updated": "2026-11-17T10:38:52.192Z",
     "original_repository_info": {
       "archived": false,
       "description": "QuickLook plugins and packages",
@@ -2245,7 +2245,7 @@
       "open_issues": 6,
       "owner": "haokaiyang",
       "repo": "Mac-QuickLook",
-      "stars": 1477,
+      "stars": 1478,
       "topics": [
         "awesome",
         "awesome-list",
