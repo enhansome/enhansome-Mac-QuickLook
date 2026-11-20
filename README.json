@@ -366,7 +366,7 @@
             "open_issues": 40,
             "owner": "whomwah",
             "repo": "qlstephen",
-            "stars": 2846,
+            "stars": 2845,
             "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
@@ -429,7 +429,7 @@
             "open_issues": 6,
             "owner": "Marginal",
             "repo": "QuickLookVideo",
-            "stars": 3651,
+            "stars": 3654,
             "topics": [
               "av1",
               "avi",
@@ -873,7 +873,7 @@
             "open_issues": 10,
             "owner": "jaketmp",
             "repo": "ePub-quicklook",
-            "stars": 573,
+            "stars": 572,
             "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
@@ -936,7 +936,7 @@
             "open_issues": 6,
             "owner": "planbnet",
             "repo": "QuickNFO",
-            "stars": 303,
+            "stars": 302,
             "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
@@ -978,7 +978,7 @@
             "open_issues": 11,
             "owner": "p2",
             "repo": "quicklook-csv",
-            "stars": 312,
+            "stars": 311,
             "topics": [
               "csv-files",
               "quicklook-plugin"
@@ -1942,7 +1942,7 @@
             "open_issues": 30,
             "owner": "sbarex",
             "repo": "QLMarkdown",
-            "stars": 3778,
+            "stars": 3782,
             "topics": [
               "markdown-viewer",
               "quicklook-extension",
@@ -2233,7 +2233,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T10:13:39.865Z",
+    "last_updated": "2026-11-20T09:57:53.622Z",
     "original_repository_info": {
       "archived": false,
       "description": "QuickLook plugins and packages",
