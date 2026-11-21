@@ -134,7 +134,7 @@
             "open_issues": 4,
             "owner": "ealeksandrov",
             "repo": "ProvisionQL",
-            "stars": 2473,
+            "stars": 2474,
             "topics": [
               "ios",
               "ios-dev",
@@ -239,7 +239,7 @@
             "open_issues": 51,
             "owner": "toland",
             "repo": "qlmarkdown",
-            "stars": 3337,
+            "stars": 3339,
             "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
@@ -426,10 +426,10 @@
             "language": "Swift",
             "license": "GPL-2.0",
             "last_commit": "2026-11-12T14:25:40Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "Marginal",
             "repo": "QuickLookVideo",
-            "stars": 3654,
+            "stars": 3655,
             "topics": [
               "av1",
               "avi",
@@ -844,7 +844,7 @@
             "open_issues": 4,
             "owner": "Oil3",
             "repo": "Webm-QuickLook-Plug-In",
-            "stars": 158,
+            "stars": 159,
             "topics": [
               "macos",
               "notarized",
@@ -1444,7 +1444,7 @@
             "open_issues": 12,
             "owner": "chockenberry",
             "repo": "Provisioning",
-            "stars": 1539,
+            "stars": 1540,
             "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
@@ -1915,7 +1915,7 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-09-16T15:18:43Z",
-            "open_issues": 74,
+            "open_issues": 75,
             "owner": "sbarex",
             "repo": "SourceCodeSyntaxHighlight",
             "stars": 4355,
@@ -1942,7 +1942,7 @@
             "open_issues": 30,
             "owner": "sbarex",
             "repo": "QLMarkdown",
-            "stars": 3782,
+            "stars": 3784,
             "topics": [
               "markdown-viewer",
               "quicklook-extension",
@@ -2233,7 +2233,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T09:57:53.622Z",
+    "last_updated": "2026-11-21T09:41:43.330Z",
     "original_repository_info": {
       "archived": false,
       "description": "QuickLook plugins and packages",
