@@ -311,7 +311,7 @@
             "open_issues": 9,
             "owner": "Oil3",
             "repo": "Mkv-Quicklook",
-            "stars": 127,
+            "stars": 128,
             "topics": [
               "appex",
               "bigsur",
@@ -429,7 +429,7 @@
             "open_issues": 7,
             "owner": "Marginal",
             "repo": "QuickLookVideo",
-            "stars": 3655,
+            "stars": 3661,
             "topics": [
               "av1",
               "avi",
@@ -844,7 +844,7 @@
             "open_issues": 4,
             "owner": "Oil3",
             "repo": "Webm-QuickLook-Plug-In",
-            "stars": 159,
+            "stars": 160,
             "topics": [
               "macos",
               "notarized",
@@ -2162,7 +2162,7 @@
             "open_issues": 0,
             "owner": "relikd",
             "repo": "QLAppBundle",
-            "stars": 18,
+            "stars": 19,
             "topics": [
               "apk",
               "appex",
@@ -2233,7 +2233,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T09:41:43.330Z",
+    "last_updated": "2026-11-22T09:42:07.510Z",
     "original_repository_info": {
       "archived": false,
       "description": "QuickLook plugins and packages",
