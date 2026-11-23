@@ -239,7 +239,7 @@
             "open_issues": 51,
             "owner": "toland",
             "repo": "qlmarkdown",
-            "stars": 3339,
+            "stars": 3340,
             "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
@@ -260,7 +260,7 @@
             "open_issues": 0,
             "owner": "ruspg",
             "repo": "markdown-quicklook",
-            "stars": 13,
+            "stars": 14,
             "topics": [
               "finder",
               "macos",
@@ -429,7 +429,7 @@
             "open_issues": 7,
             "owner": "Marginal",
             "repo": "QuickLookVideo",
-            "stars": 3661,
+            "stars": 3664,
             "topics": [
               "av1",
               "avi",
@@ -1137,7 +1137,7 @@
             "open_issues": 2,
             "owner": "srirangav",
             "repo": "qlZipInfo",
-            "stars": 176,
+            "stars": 177,
             "topics": [
               "compression",
               "macos",
@@ -1918,7 +1918,7 @@
             "open_issues": 75,
             "owner": "sbarex",
             "repo": "SourceCodeSyntaxHighlight",
-            "stars": 4355,
+            "stars": 4357,
             "topics": [
               "quicklook-extension",
               "quicklook-plugin"
@@ -1942,7 +1942,7 @@
             "open_issues": 30,
             "owner": "sbarex",
             "repo": "QLMarkdown",
-            "stars": 3784,
+            "stars": 3788,
             "topics": [
               "markdown-viewer",
               "quicklook-extension",
@@ -2218,7 +2218,7 @@
             "open_issues": 0,
             "owner": "relikd",
             "repo": "QLMarkdown",
-            "stars": 12,
+            "stars": 13,
             "topics": [
               "markdown",
               "md",
@@ -2233,7 +2233,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T09:42:07.510Z",
+    "last_updated": "2026-11-23T10:41:26.740Z",
     "original_repository_info": {
       "archived": false,
       "description": "QuickLook plugins and packages",
