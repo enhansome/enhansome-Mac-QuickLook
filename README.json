@@ -239,7 +239,7 @@
             "open_issues": 51,
             "owner": "toland",
             "repo": "qlmarkdown",
-            "stars": 3340,
+            "stars": 3339,
             "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
@@ -429,7 +429,7 @@
             "open_issues": 7,
             "owner": "Marginal",
             "repo": "QuickLookVideo",
-            "stars": 3664,
+            "stars": 3666,
             "topics": [
               "av1",
               "avi",
@@ -1918,7 +1918,7 @@
             "open_issues": 75,
             "owner": "sbarex",
             "repo": "SourceCodeSyntaxHighlight",
-            "stars": 4357,
+            "stars": 4356,
             "topics": [
               "quicklook-extension",
               "quicklook-plugin"
@@ -1939,10 +1939,10 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-10-04T06:21:53Z",
-            "open_issues": 30,
+            "open_issues": 35,
             "owner": "sbarex",
             "repo": "QLMarkdown",
-            "stars": 3788,
+            "stars": 3792,
             "topics": [
               "markdown-viewer",
               "quicklook-extension",
@@ -2078,7 +2078,7 @@
             "open_issues": 13,
             "owner": "insidegui",
             "repo": "AssetCatalogTinkerer",
-            "stars": 2898,
+            "stars": 2897,
             "topics": [
               "asset-catalog",
               "developer-tools",
@@ -2233,7 +2233,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T10:41:26.740Z",
+    "last_updated": "2026-11-24T12:23:39.124Z",
     "original_repository_info": {
       "archived": false,
       "description": "QuickLook plugins and packages",
