@@ -164,7 +164,7 @@
             "open_issues": 22,
             "owner": "anthonygelibert",
             "repo": "QLColorCode",
-            "stars": 717,
+            "stars": 718,
             "topics": [
               "code-source",
               "highlight",
@@ -211,7 +211,7 @@
             "open_issues": 1,
             "owner": "Nyx0uf",
             "repo": "qlImageSize",
-            "stars": 1199,
+            "stars": 1200,
             "topics": [
               "bpg",
               "images",
@@ -426,10 +426,10 @@
             "language": "Swift",
             "license": "GPL-2.0",
             "last_commit": "2026-11-25T18:03:13Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "Marginal",
             "repo": "QuickLookVideo",
-            "stars": 3671,
+            "stars": 3676,
             "topics": [
               "av1",
               "avi",
@@ -1915,10 +1915,10 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-09-16T15:18:43Z",
-            "open_issues": 75,
+            "open_issues": 76,
             "owner": "sbarex",
             "repo": "SourceCodeSyntaxHighlight",
-            "stars": 4356,
+            "stars": 4357,
             "topics": [
               "quicklook-extension",
               "quicklook-plugin"
@@ -1942,7 +1942,7 @@
             "open_issues": 36,
             "owner": "sbarex",
             "repo": "QLMarkdown",
-            "stars": 3796,
+            "stars": 3800,
             "topics": [
               "markdown-viewer",
               "quicklook-extension",
@@ -2233,7 +2233,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T10:47:51.721Z",
+    "last_updated": "2026-11-27T10:47:19.069Z",
     "original_repository_info": {
       "archived": false,
       "description": "QuickLook plugins and packages",
