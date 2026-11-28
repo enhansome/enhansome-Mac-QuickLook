@@ -134,7 +134,7 @@
             "open_issues": 5,
             "owner": "ealeksandrov",
             "repo": "ProvisionQL",
-            "stars": 2474,
+            "stars": 2473,
             "topics": [
               "ios",
               "ios-dev",
@@ -239,7 +239,7 @@
             "open_issues": 51,
             "owner": "toland",
             "repo": "qlmarkdown",
-            "stars": 3339,
+            "stars": 3338,
             "topics": []
           },
           "first_seen": "2026-08-28T14:18:29.869Z"
@@ -429,7 +429,7 @@
             "open_issues": 7,
             "owner": "Marginal",
             "repo": "QuickLookVideo",
-            "stars": 3676,
+            "stars": 3677,
             "topics": [
               "av1",
               "avi",
@@ -1918,7 +1918,7 @@
             "open_issues": 76,
             "owner": "sbarex",
             "repo": "SourceCodeSyntaxHighlight",
-            "stars": 4357,
+            "stars": 4358,
             "topics": [
               "quicklook-extension",
               "quicklook-plugin"
@@ -1942,7 +1942,7 @@
             "open_issues": 36,
             "owner": "sbarex",
             "repo": "QLMarkdown",
-            "stars": 3800,
+            "stars": 3803,
             "topics": [
               "markdown-viewer",
               "quicklook-extension",
@@ -2233,7 +2233,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T10:47:19.069Z",
+    "last_updated": "2026-11-28T10:17:27.862Z",
     "original_repository_info": {
       "archived": false,
       "description": "QuickLook plugins and packages",
